@@ -1,0 +1,245 @@
+Target Domain,Source Domain,GPT3 Completion,Example
+intoxication,destruction, intoxication/alcohol consumption,He was wrecked.
+intoxication,destruction, physical force or action.,He got thrashed.
+amount,size, division of physical objects.,Can you break a twenty?
+amount,size, physical size or power,I'm not a big eater.
+beliefs,plants, planting/growing a physical object or a seed.,I planted the belief in his mind.
+beliefs,plants, plant growth or life,This is a flourishing belief in this culture.'
+success,goal, travel or journey,We've made it this far in our efforts to solve the problem.
+success,goal, journey/destination.,We only have a short ways to go on solving this puzzle.
+subjects,areas, survey research,The researchers surveyed the new material.
+subjects,areas, exploration/colonization of new territory,"Your dissertation should stake out new territory, preferably virgin territory."
+disgust,nausea, illness,You make me sick!
+disgust,nausea, disgust,She's a nauseating person.
+emotion,object, physical damage or destruction,She was shattered by his death.
+emotion,object, destruction or disintegration,She fell apart.
+mind,object, breaking or shattering something physical.,He cracked up.
+mind,object, fragility in physical objects,He's mentally fragile.
+opportunities,object, movement/location,Don't let the opportunity pass you by.
+opportunities,object, taking physical objects.,I took the job when it became available.
+problem,object, composition of physical objects.,Let's look at the make-up of this problem.
+problem,object, physical object destruction.,He tore the problem apart looking for its solution.
+morality,accounting, finance/money,You have to pay for your mistakes.
+morality,accounting, debt repayment or compensation,I'll make it up to everyone for what I've done.
+relationship,musical harmony, music,They had a harmonious relationship.
+relationship,musical harmony, music,They are out of tune with each other.
+harm,path, harm or damage,How am I supposed to learn anything if the school keeps placing roadblocks in my way?
+harm,path, burden/weight,It's hard to reach the top when you're saddled with an unwanted baby.
+morality,path, direction/movement,I think he's being straight with me.
+morality,path, physical movement or direction.,She has strayed.
+creation,plants, gardening/horticulture,He planted seeds of doubt in my mind.
+creation,plants, agriculture/horticulture,China is a fertile ground for revolt.
+people,plants, plants/gardening,She's a late bloomer.
+people,plants, personification of death.,The grim reaper.
+time,moving object, motion or movement,Thursday passed without incident.
+time,moving object, physical space/movement,What events are up ahead?
+schedule,moving object, motion/movement,He finally caught up to schedule.
+schedule,moving object, movement,The class was trying to keep up with the schedule.
+causation,money, cause-and-effect relationship,He profitted from experience.
+causation,money, action and consequence,Reckless skiing cost her a leg.
+states,locations, states of being,He is in love.
+states,locations, process or progression,He is at a certain stage in his studies.
+beliefs,lovers, romantic relationship/dating,He flirted with a belief in utter hedonism in his youth.
+beliefs,lovers, seduction,That's a seductive belief.
+lust,machine, electricity/switches.,You turn me on.
+lust,machine, mechanical device,"Turn my crank, baby."
+mind,machine, machine/ mechanical objects.,He has a screw loose.
+mind,machine, machine or factory,He churns out ideas. 
+people,machine, machine/system failure.,He had a breakdown.
+people,machine, machines/fuel,Fuel up with a good breakfast.
+force,moving object, physical force and movement,Greed is the strongest evil force at work in the world today.
+force,moving object, physical strength.,The force of gravity on the moon is much weaker.
+change,motion, physical movement or journey,He went from innocent to worldly.
+change,motion, physical change,His hair went gray.
+ideas,motion, toys/games.,I'm playing with the idea of a trip to Hawaii.
+ideas,motion, transportation infrastructure.,She's got a one-track mind
+shape,motion, physical stability or structure,The tower leans.
+shape,motion, physical shapes,The roof slopes down before it drops off steeply.
+lover,possession, possessions,My friend stole my loved one from me.
+lover,possession, war/battle,I'm going to get him back.
+beliefs,possessions, physical grasping or holding onto objects.,She clings to his beliefs.
+beliefs,possessions, toys,I briefly toyed with a belief in a higher power.
+harm,location, harm or danger.,I am in trouble.
+harm,location, physical force or pushing.,They're driving me over the edge.
+laughter,substance, extraction of physical objects,You can't get a single joke out of him.
+laughter,substance, tearing/ripping,He was ripping with laughter.
+beliefs,support, physical structure or building,He chipped away at the foundation for her beliefs.
+beliefs,support, support/defense,What view does he uphold?
+problem,target, war or hunting,The mayor targetted the problem of homelessness.
+problem,target, problem,He spearheaded the investigation.
+seeing,touching, physical control or manipulation.,I couldn't take my eyes off of him.
+seeing,touching, agency,Her eyes picked out a detail in the pattern.
+existence,visibility, physical existence.,New problems keep appearing.
+existence,visibility, physical objects with a lifespan,The controversy eventually faded away.
+darkness,solid, touch/sensation,The darkness was palpable.
+darkness,solid, physical pressure.,Darkness pressed in on all sides.
+competition,war, war/weapons.,The debate team brought out their big guns.
+competition,war, battle/contest,They battled each other over the chess board every week.
+illness,war, invasion/takeover,The disease infiltrates your body and takes over.
+illness,war, cleaning/erasing stains,The doctors tried to wipe out the infection.
+words,weapons, sharp objects or tools.,She used some sharp words.
+words,weapons, throwing or hurling objects.,He hurled insults at her.
+adversity,weather, adversity/challenge.,The climate is right for a takeover.
+adversity,weather, weather/ uncontrollable events,It rained on my parade.
+communication,speech, exchange of valuable goods,A picture is worth a thousand words.
+communication,speech, conversation/verbal communication,What does that painting say to you?
+harm,possessions, physical pain/harm,The noise gave him a headache.
+harm,possessions, harm/loss,"If you don't have your health, what have you got?"
+obligations,possessions, physical burden/baggage.,He's carrying a heavy load at work.
+obligations,possessions, transferring burden or weight.,I dumped that project in his lap.
+properties,possessions, properties of physical objects,She has a nice sense of humor.
+properties,possessions, inheritance of physical properties.,He got his red hair from his mother.
+responsibilities,possessions, receiving physical objects,I was the one who got the blame.
+responsibilities,possessions, adhesion,They made the charges stick.
+competitors,predators, animals in the wild,I said one thing and they pounced on me like a pack of dingos.
+competitors,predators, competition in the natural world (survival of the fittest),The conference room is a real snake pit today.
+harm,prey, predator-prey relationship.,I feel like a little fish surrounded by sharks.
+harm,prey, hunting.,The FBI lay in wait of their quarry for days.
+competition,race, race/competition,The arms race.
+competition,race, race/competition,"He's a better writer than I am, and he's widening the distance."
+conceit,size, physical appearance,He's a stuffed shirt.
+conceit,size, conceit,He was becoming quite grandiose when I left.
+change,replacement, transformation/change.,"After the experiment, the water was gone, and hydrogen and oxygen was in its place."
+change,replacement, physical replacement.,"The man I had known was gone, and in his place was an aging fool."
+time,resource, a finite resource,We're almost out of time.
+time,resource, resources,Find a better use for your time.
+understanding,seeing, light and illumination.,Can you shed more light on this issue? I don't quite see what you are talking about.
+understanding,seeing, selective perception,He sees only what he wants to see.
+perception,shape, perception,I can't figure him out.
+perception,shape, shaping objects.,He cuts a splendid figure.
+states,shapes, physical space and objects (puzzle pieces),He doesn't fit in.
+states,shapes, physical fitting,He let the punishment fit the crime
+thinking,accounting, arithmetic/mathematics,I can put two and two together.
+thinking,accounting, accounting,How do you account for this fact?
+problem,location, cartography or mapping,Let's map out the problem before we do anything else.
+problem,location, physical distance/ proximity,How close are we to finding a solution?
+existence,location, creation of physical object.,It came into existence.
+existence,location, existence,The question simply doesn't arise here.
+meaning,container, finding physical objects.,He found the knowledge in a new book.
+meaning,container, weight/quantity,Harry does not exactly overload his paragraphs with thought.
+sex,competition, sports/games,Did you score last night?
+sex,competition, power dynamics/control.,She surrendered to him.
+body,container, Container/Imprisonment,He's a young man trapped in an old man's body.
+body,container, physical space/body.,"Once you get past his rude exterior, you'll find a warm and caring person inside."
+difficulties,container, container/space,How did I get myself into this situation?
+difficulties,container, physical location/space.,How do we get out of this situation?
+investment,container, securing valuables,Put your money in bonds.
+investment,container, investment,I'm down to my bottom dollar.
+obligations,container, trapping and escaping physical entities.,Can you get out of doing the dishes?
+obligations,container, physical restraint.,He trapped her into going with him.
+theories,cloth, weaving or constructing,A finely woven theory.
+theories,cloth, nudity,Let's look at the naked facts.
+time,container, measurement,He did it in three minutes.
+time,container, physical distance/comparison.,He's like something out of the last century.
+darkness,cover, cover/hiding,Under cover of darkness.
+darkness,cover, physical enclosure,Darkness closed in over us.
+money,liquid, liquid/fluidity,My money is all dried up.
+money,liquid, liquid flow.,Don't pour your money down the drain.
+harm,destruction, physical force/movement.,He crushed the rebellion.
+harm,destruction, physical objects being harmed or broken,She wrecked our marriage.
+strong emotion,blindness, visual impairment/blindness,He was blinded by love.
+strong emotion,blindness, light,They were dazzled with excitement.
+active,alive, life/ living beings,The party was really alive
+active,alive, life or vitality,"Lively, liven (lexical examples)"
+people,batteries, electricity/battery,I'm all charged up and full of energy.
+people,batteries, mechanics of a car,I need a jump start on Monday mornings
+mind,body, body fitness,His mind is strong and supple.
+mind,body, physical objects,The idea just slipped through my fingers.
+problem,body of water, water,He dived right into the problem.
+problem,body of water, searching in a container.,He kept coming up empty.
+importance,centrality, physical objects being stripped of their properties.,Let's strip away all the unimportant details.
+importance,centrality, physical orientation and spatial location.,That's just a peripheral issue.
+disparity,change, height or physical distance,The phone poles get taller as you approach the freeway.
+disparity,change, cycle of change/rotation,The president changes every four years.
+obligations,children, taking care of a child,The setting of salaries is his baby.
+obligations,children, neglecting living things or objects.,He's been neglecting his duties.
+purpose,direction, direction/movement,He is just floating around.
+purpose,direction, travel/direction,She is a drifter with no direction.
+facial expression,cover, cleaning/erasing,Wipe that smile off your face.
+facial expression,cover, lifting a weight/burden.,The disquiteting expression was lifted from her face.
+defeat,drowning, drowning/water survival,I'm just trying to keep my head above water.
+defeat,drowning, swimming/drowning,Try not to get in over your head.
+emotion stability,grounding, physical stability,She has her feet on the ground.
+emotion stability,grounding, physical stability,I'm up in the air.
+intelligence,light, brightness or light,He is very bright.
+intelligence,light, brightness,I always thought he was a little dim.
+hope,light, weather/clouds,The clouds were a glimmer of hope that rain might come.
+hope,light, light/darkness.,I have a very dim hope that he'll recover.
+amount,length, measuring quantity,He's short of money.
+amount,length, measuring quantity or amount.,He's short on intelligence.
+time,landscape, space/distance,We're coming up on Xmas.
+time,landscape, space/location,He didn't make it to Tuesday.
+love,journey, paths/roads,They are at a crossroads in their relationship.
+love,journey, train travel.,Their marriage has really gone off the track.
+life,journey, journey/path.,"I don't know where I'm headed, but I'm enjoying getting there."
+life,journey, journey/direction/goal,He's headed for great things.
+love,insanity, uncontrollable behavior.,He raves about her.
+love,insanity, madness,She is madly in love.
+desire,hunger, physical reaction,He was drooling over her.
+desire,hunger, basic physical need (hunger),He hungers for her touch.
+anger,heat, temperature (heat),She's a real hothead.
+anger,heat, fire/burning.,His eyes smouldered with rage.
+beliefs,guides, government/politics,You are governed by your beliefs.
+beliefs,guides, path/route,You go by your beliefs.
+final state,goal, travel/destination,I ended up exhausted.
+final state,goal, physical destination or journey,His reckless investments are taking him into backruptcy.
+emotion,force, physical movement/displacement,I was moved by the poem.
+emotion,force, physical movement/transportation,She was carried away by the song.
+competition,fight, physical fight/violence.,He clobbered me at tennis.
+competition,fight, physical fight,Those swim teams have been slugging it out all season.
+light,fluid, liquid,Sunlight poured into the room.
+light,fluid, liquid substance,Pools of light were scattered across the clearing.
+ideas,food, nourishment/food,She gave us some brain food.
+ideas,food, food/consumption,We have a live satellite feed from London.
+desire,force, magnetism or attraction,They were drawn to each other.
+desire,force, electricity (as a metaphor for desire or attraction),I could feel the electricity between us.
+communication,writing, writing/messages,His guilt was written all over his face.
+communication,writing, spelling words,Do I have to spell it out for you?
+influence,force, physical force.,He can exert his influence on her.
+influence,force, physical pressure,Reagan brought pressure to bear upon his cabinet.
+end of action,goal, journey,We are reaching the end of the house-buying process.
+end of action,goal, journey or process,We are entering the last stages of filing for bankrupcy.
+getting,eating, getting,Cough up the money you owe me!
+getting,eating, feeding,I've been feeding him funds illegally for a year.
+problem,path, path,Let's follow this line of thinking.
+problem,path, transportation/trains.,Let's get our thinking back on track.
+intoxication,electrification, intoxication,He was wired.
+intoxication,electrification, light/intensity,He was lit.
+emotion,heat, heat and fire,The crowd was all fired up.
+emotion,heat, physical sensation or experience.,He had a burning emotion.
+affection,warmth, physical temperature,They gave me a warm welcome.
+affection,warmth, temperature or warmth.,He took a while to warm up to me.
+compliance,following, physical movement.,He went along with what he was told to do.
+compliance,following, physical movement,He followed his orders.
+ideas,container, objects inside a container,I can't get this idea out of my mind.
+ideas,container, location within a physical space.,What did you have in mind?
+more,up, quantity/comparison,The number of people living in poverty went up.
+more,up, quantity/amount.,Can you please decrease the number of assignments?
+ideas,object, Possessions,Sally gave the idea to Sam.
+ideas,object, commerce/trade.,IBM bought the idea from him.
+strong emotion,insanity, force affecting a physical object (mind),He's out of his mind with grief.
+strong emotion,insanity, insanity or loss of control,I'm mad with jealousy.
+intoxication,burden, substance abuse.,She was loaded.
+intoxication,burden, filling up an object with liquid or gas,She was tanked up.
+rational,up, verticality (higher vs. lower),"The discussion fell to the emotional level, but I raised it back up to the rational plane."
+rational,up, physical elevation,He couldn't rise above his emotions.
+excitement,insanity, driving a vehicle.,The excitement is driving me over the edge.
+death,not metaphoric, objects/locations.,The day of the hearing of her second case she had been found dead.
+emotions,not metaphoric, physical sensation.,I was shocked for a minute.
+moving,not metaphoric, forward advancement,They saw Daniel advancing.
+memories,not metaphoric, physical objects in a space.,There was nothing in his house to remind him of Ecalpemos.
+sleep,not metaphoric, physical location/destination,She was almost asleep.
+family,not metaphoric, possession/ location,"Adam sat in his parents' house, drinking tea."
+newspapers,not metaphoric, not metaphoric,He did not even see an English newspaper.
+liking,not metaphoric, sense of taste or preference.,I don't like Miss Fitch.
+understanding,not metaphoric, physical location,I don't understand business.
+distance,not metaphoric, physical proximity.,They ought to be near him soon.
+doors,not metaphoric, access/opportunity,And don't try and get the door open.
+scanning ,not metaphoric, not metaphoric,Lawton scanned upwards.
+distance,not metaphoric, positivity,The further away the better.
+arriving ,not metaphoric, physical movement,Lawton came and crouched down in front of it.
+ideas,not metaphoric, inherent properties of physical objects.,I think it 's a good idea.
+communication,not metaphoric, silence,Nobody spoke immediately.
+results,not metaphoric, physical objects,Output from the system is both tabular and graphical .
+paths  ,not metaphoric, physical paths,Chosen routes were those which minimized population rather than distance.
+property,not metaphoric, commercial exchange,Are we to sell our cattle or our land? 

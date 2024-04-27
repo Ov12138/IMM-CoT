@@ -1,0 +1,485 @@
+Target Domain,Source Domain,GPT3 Completion,Example
+intoxication,destruction,"In the sentence above, wrecked is used to describe someone's state. This term is associated with drinking alcohol, indicating that the person is heavily intoxicated. 
+Source Domain: intoxication/alcohol consumption",He was wrecked.
+intoxication,destruction,"In the sentence above, the word ""thrashed"" is used to describe the state of the person, which implies that they are so intoxicated that they have lost control of their physical movements. Therefore, the state of being drunk or intoxicated is being metaphorically compared to a physical action or force that can create chaos and turmoil. 
+Source Domain: physical force or action.",He got thrashed.
+amount,size,"In the sentence above, a twenty is used to refer to a $20 bill. The verb “to break” is usually used in reference to physical objects like breaking a stick into two or breaking a vase. Here, it is used metaphorically to mean dividing an amount of money into smaller denominations. 
+Source Domain: division of physical objects.",Can you break a twenty?
+amount,size,"In the sentence above, the person refers to themselves as being a ""big"" eater, or someone who eats a large amount of food. Thus, the amount of food someone eats is being compared to their physical size or power. 
+Source Domain: physical size or power",I'm not a big eater.
+beliefs,plants,"In the sentence above, belief is described as something that can be planted, like a physical object or a seed. This implies that beliefs can be nurtured, grown, and can take root in a person's mind. 
+Source Domain: planting/growing a physical object or a seed.",I planted the belief in his mind.
+beliefs,plants,"In the sentence above, the word ""flourishing"" is used to describe a belief, suggesting that beliefs can grow and develop like living organisms. 
+Source Domain: plant growth or life",This is a flourishing belief in this culture.'
+success,goal,"In the sentence above, progress towards solving a problem is described as physical movement or travel, indicating that success in the problem-solving process is associated with reaching a destination. 
+Source Domain: travel or journey",We've made it this far in our efforts to solve the problem.
+success,goal,"In the above sentence, solving the puzzle is associated with going on a journey and having a destination. The metaphor is using the concept of a physical journey to describe the process of achieving success in solving a puzzle.
+Source Domain: journey/destination.",We only have a short ways to go on solving this puzzle.
+subjects,areas,"In the sentence above, the new material is being surveyed, as though it were a group of people or objects being studied in a survey. This suggests that the material is being treated as a subject of research. 
+Source Domain: survey research",The researchers surveyed the new material.
+subjects,areas,"In the above sentence, the dissertation is being compared to the act of exploring new and untrodden territory. The phrase “virgin territory” refers to an area that has not been explored or claimed previously. Thus, the dissertation is being talked about as a territory that needs to be claimed or explored. 
+Source Domain: exploration/colonization of new territory","Your dissertation should stake out new territory, preferably virgin territory."
+disgust,nausea,"In the sentence above, the speaker expresses that the person they are addressing makes them feel physically ill. This is a metaphorical expression of disgust, where the feeling of disgust is compared to a physical illness. 
+Source Domain: illness",You make me sick!
+disgust,nausea,"In the sentence above, the person is described as nauseating, which is a feeling of disgust. Thus, the person is being compared metaphorically to something that is disgusting. 
+Source Domain: disgust",She's a nauseating person.
+emotion,object,"In the above sentence, the word ""shattered"" is used to describe the extent to which the woman was affected by the death of her loved one. The word shattered is a physical verb that is used to describe something that breaks into pieces. Thus, the sentence uses a physical experience to describe an emotional one. 
+Source Domain: physical damage or destruction",She was shattered by his death.
+emotion,object,"In the sentence above, ""fell apart"" is used to express a strong emotional response. Falling apart is a metaphorical way of describing feeling overwhelmed or losing control. 
+Source Domain: destruction or disintegration",She fell apart.
+mind,object,"In the sentence above, ""cracked up"" is used to describe what happened to him. The verb ""cracked"" suggests that something has broken or shattered, and when this expression is applied to a person, it implies that their mind or emotions have shattered in some way. 
+Source Domain: breaking or shattering something physical.",He cracked up.
+mind,object,"In the sentence above, the mind is compared to a fragile object. Fragile objects can be easily broken or damaged, thus the mind in the sentence is described as something that can also be easily damaged. 
+Source Domain: fragility in physical objects",He's mentally fragile.
+opportunities,object,"In the sentence above, opportunities are described as something that can pass by, just like a physical object that is moving and can be missed if not caught at the right moment.
+Source Domain: movement/location",Don't let the opportunity pass you by.
+opportunities,object,"In the above sentence, job opportunities are talked about as something that you can take physically, like an object. 
+Source Domain: taking physical objects.",I took the job when it became available.
+problem,object,"In the sentence above, the problem is described as something that has a ""make-up"", just like a physical object, such as a person or a painting. This suggests that the problem is seen as a composition of different elements. 
+Source Domain: composition of physical objects.",Let's look at the make-up of this problem.
+problem,object,"In the sentence above, the problem is described as a physical object that can be torn apart. This implies that the problem has physical properties, such as being solid and tangible. 
+Source Domain: physical object destruction.",He tore the problem apart looking for its solution.
+morality,accounting,"In the above sentence, mistakes are being treated as a debt that needs to be repaid. Thus, the sentence is using the source domain of finance and money to understand the concept of morality. 
+Source Domain: finance/money",You have to pay for your mistakes.
+morality,accounting,"In the sentence above, actions are described as something that can be made up for, implying a sense of wrongdoing or moral obligation. Thus, it involves the concept of morality. 
+Source Domain: debt repayment or compensation",I'll make it up to everyone for what I've done.
+relationship,musical harmony,"In the sentence above, the relationship is described as harmonious. Harmony is an abstract concept that is usually used to describe the way musical notes are combined to create a pleasing sound. Here, it is being used to describe how two people interact with each other in a positive way. 
+Source Domain: music",They had a harmonious relationship.
+relationship,musical harmony,"In the above sentence, the phrase ""out of tune"" is being used to describe a relationship between two entities, suggesting a lack of alignment or compatibility. This metaphor relies on the physical analogy of musical instruments being in tune or out of tune with each other. 
+Source Domain: music",They are out of tune with each other.
+harm,path,"In the sentence above, the hindrances and obstacles thrown in the way of learning are referred to as roadblocks. Roadblocks are physical entities used to stop the progress of vehicles and travelers. Thus, they are treated as something that causes harm or damage to the individual trying to move forward.
+Source Domain: harm or damage",How am I supposed to learn anything if the school keeps placing roadblocks in my way?
+harm,path,"In the sentence above, the unwanted baby is causing a negative effect, making it hard to reach the top. The unwanted baby is thus seen as a burden or weight that is causing harm.
+Source Domain: burden/weight",It's hard to reach the top when you're saddled with an unwanted baby.
+morality,path,"In the sentence above, being straight is used to describe honesty. The concept of being straight or not deviating from a specific path is used to describe moral behavior. 
+Source Domain: direction/movement",I think he's being straight with me.
+morality,path,"In the sentence above, straying implies going off course or deviating from a prescribed path. This implies a moral aspect of behavior that is expected or accepted. 
+Source Domain: physical movement or direction.",She has strayed.
+creation,plants,"In the above sentence, doubt is being described as something that is being planted, like a seed. Thus, it is a concept that is being created or grown. 
+Source Domain: gardening/horticulture",He planted seeds of doubt in my mind.
+creation,plants,"In the sentence above, China is described as a place where revolt can grow, just like plants grow on fertile ground. The notion of growth and development is applied to abstract concept of social and political movements.
+Source Domain: agriculture/horticulture",China is a fertile ground for revolt.
+people,plants,"In the above sentence, a person is described as a blooming flower that develops and grows at a later stage than usual. This is a metaphorical comparison between the growth and development of a flower and that of a person. 
+Source Domain: plants/gardening",She's a late bloomer.
+people,plants,"In the sentence above, the grim reaper is described as a person. However, the grim reaper is not an actual person, but rather a representation of the concept of death. Therefore, the metaphorical mapping is from the abstract concept of death to the concrete concept of a person.
+Source Domain: personification of death.",The grim reaper.
+time,moving object,"In the sentence above, Thursday is treated as a period of time that can pass without incident. This implies that time is a physical entity that moves or progresses. 
+Source Domain: motion or movement",Thursday passed without incident.
+time,moving object,"In the above sentence, time is being talked about as a physical space that can be moved through. The phrase ""up ahead"" is usually used to describe a physical location that is ahead in space and can be reached by moving in that direction. 
+Source Domain: physical space/movement",What events are up ahead?
+schedule,moving object,"In the sentence, schedule is being described as something that is moving, or that it is ahead of the person. The person has to catch up to it, as if it is a physical entity. 
+Source Domain: motion/movement",He finally caught up to schedule.
+schedule,moving object,"In the sentence above, schedule is being treated as a moving object that the class is trying to keep up with, just like people have to run to keep up with a moving object. 
+Source Domain: movement",The class was trying to keep up with the schedule.
+causation,money,"In the sentence above, experience is presented as the cause of the profit. This represents a cause-and-effect relationship between the two entities. 
+Source Domain: cause-and-effect relationship",He profitted from experience.
+causation,money,"In the above sentence, there’s a clear cause and effect relationship between reckless skiing and the loss of a leg. Thus, causation is being talked about metaphorically as an action that has consequences, like when you carry out an action and it leads to a specific outcome. 
+Source Domain: action and consequence",Reckless skiing cost her a leg.
+states,locations,"In the sentence above, the use of the verb “to be” implies a state that the subject is in. Being in love refers to a state of mind, thus, emotions are being talked about as states. 
+Source Domain: states of being",He is in love.
+states,locations,"In the above sentence, the progress in studies is described as being at a particular stage. This is a metaphorical use of the word stage, which refers to a phase or level in a process.
+Source Domain: process or progression",He is at a certain stage in his studies.
+beliefs,lovers,"In the above sentence, ""belief"" is described as something that can be flirted with, just like a person in a romantic relationship. This implies that beliefs may be unstable and temporary choices. 
+Source Domain: romantic relationship/dating",He flirted with a belief in utter hedonism in his youth.
+beliefs,lovers,"In the sentence above, beliefs are described as something that can seduce someone, similar to how a person can be seduced by a physical person or object. 
+Source Domain: seduction",That's a seductive belief.
+lust,machine,"In the sentence above, the person being addressed is said to ""turn on"" the speaker. This implies that the person is an object or a switch that the speaker can control, and is used as a metaphor for sexual attraction and arousal.
+Source Domain: electricity/switches.",You turn me on.
+lust,machine,"In the sentence above, ""turn my crank"" is a metaphorical way of asking for sexual stimulation or arousal. The metaphor uses the image of a hand-cranked machine or toy that needs to be turned in order to work, to describe a person's sexual desire or need for pleasure. 
+Source Domain: mechanical device","Turn my crank, baby."
+mind,machine,"In the above sentence, the phrase ""screw loose"" is used as a metaphor to denote a mental disorder or eccentricity. Here, the mind is talked about as a machine or mechanical object that can have physical features like screws. 
+Source Domain: machine/ mechanical objects.",He has a screw loose.
+mind,machine,"In the sentence above, ideas are being described as something that is being produced through a physical process, like churning butter. In other words, the mind is being talked about as a machine that produces ideas. 
+Source Domain: machine or factory",He churns out ideas. 
+people,machine,"In the sentence above, the term ""breakdown"" refers to the psychological or emotional collapse of a person. Here, a person is conceptualized as a machine or a complex system. In this metaphor, mental or emotional distress is treated as a mechanical failure or malfunction. 
+Source Domain: machine/system failure.",He had a breakdown.
+people,machine,"In the sentence above, the reader is being told to ""fuel up"" as if they were a machine or a car. The metaphor here is that people are compared to machines that need fuel to function properly.
+Source Domain: machines/fuel",Fuel up with a good breakfast.
+force,moving object,"In the sentence above, greed is described as a force, emphasizing its power and ability to move, act, and impact the world. The metaphorical use of force highlights the danger and negative consequences associated with greed. 
+Source Domain: physical force and movement",Greed is the strongest evil force at work in the world today.
+force,moving object,"In the sentence above, force is being described as weaker on the moon. This implies that force is being compared to a physical entity that can vary in strength. 
+Source Domain: physical strength.",The force of gravity on the moon is much weaker.
+change,motion,"In the sentence above, the person goes through a change from innocent to worldly. This change is being described as a journey from one place to another, which is a literal interpretation of change. 
+Source Domain: physical movement or journey",He went from innocent to worldly.
+change,motion,"In the sentence above, hair is used as a signifier for change taking place in the person, particularly, aging. Thus, hair is being talked about or symbolized as a physical object that can change color over time.
+Source Domain: physical change",His hair went gray.
+ideas,motion,"In the sentence above, the idea of a trip to Hawaii is being played with, which implies that ideas are something that you can play with, like toys. 
+Source Domain: toys/games.",I'm playing with the idea of a trip to Hawaii.
+ideas,motion,"In the sentence above, a person’s mind is compared to a train track that only goes in one direction, suggesting that the person is only able to focus on one topic or idea. 
+Source Domain: transportation infrastructure.",She's got a one-track mind
+shape,motion,"In the sentence above, the tower is described as leaning, which is a physical action. Thus, it is implying that the tower has a shape that can change. 
+Source Domain: physical stability or structure",The tower leans.
+shape,motion,"In the sentence above, the shape of the roof is being described. The words ""slopes down"" and ""drops off steeply"" suggest a physical shape that can be visually perceived and measured, similar to how we describe shapes of physical objects in our everyday life.
+Source Domain: physical shapes",The roof slopes down before it drops off steeply.
+lover,possession,"In the sentence above, love is described as a possession that can be taken away. Thus, the loved one is being treated as a physical object. 
+Source Domain: possessions",My friend stole my loved one from me.
+lover,possession,"In the sentence above, ""get him back"" implies getting revenge on a former lover, suggesting that love is a war or battle. 
+Source Domain: war/battle",I'm going to get him back.
+beliefs,possessions,"In the sentence above, beliefs are talked about as something that one can cling to or hold onto, just like a physical object. This implies that beliefs are seen as stable, solid, and unchanging. 
+Source Domain: physical grasping or holding onto objects.",She clings to his beliefs.
+beliefs,possessions,"In the sentence above, beliefs are being described as toys. Toys are something that one can play with or experiment with, but not necessarily take seriously. Similarly, in the sentence, the speaker is saying that they briefly entertained the idea of a higher power, but didn't fully commit to the belief. 
+Source Domain: toys",I briefly toyed with a belief in a higher power.
+harm,location,"In the above sentence, trouble is used to convey harm or danger. Thus, trouble is talked about as a harmful situation or an unpleasant experience. 
+Source Domain: harm or danger.",I am in trouble.
+harm,location,"In the sentence above, the driving is causing harm in the form of pushing the person over the edge. Harm is being caused and thus the target domain of the metaphor is harm. 
+Source Domain: physical force or pushing.",They're driving me over the edge.
+laughter,substance,"In the above sentence, the lack of jokes is described as not being able to get anything out of someone. This is a clear metaphorical transfer as jokes are not physical objects that can be taken out of someone. 
+Source Domain: extraction of physical objects",You can't get a single joke out of him.
+laughter,substance,"In the above sentence, laughter is described as something that can rip or tear. This is a physical action usually associated with objects. Thus, laughter is being metaphorically personified and talked about as an object that can be torn. 
+Source Domain: tearing/ripping",He was ripping with laughter.
+beliefs,support,"In the sentence above, beliefs are described as something that have a foundation, just like a physical structure. Chipping away refers to gradually removing or undermining this foundation, thus weakening the beliefs. 
+Source Domain: physical structure or building",He chipped away at the foundation for her beliefs.
+beliefs,support,"In the sentence above, ""view"" refers to a person's beliefs or opinions. ""Uphold"" is a word used for supporting or defending beliefs. Therefore, beliefs are being compared to something that can be physically supported or defended. 
+Source Domain: support/defense",What view does he uphold?
+problem,target,"In the sentence above, the problem is being targeted, which implies hunting or attacking it, like a physical object. This metaphor suggests that the problem is seen as an opponent or enemy that needs to be defeated. 
+Source Domain: war or hunting",The mayor targetted the problem of homelessness.
+problem,target,"There is no indication of the problem in the sentence above. However, the word ""spearheaded"" is used to describe leading or initiating an action, which is related to the physical action of using a spear to lead or attack. Thus, the source domain could be interpreted as military warfare or hunting.",He spearheaded the investigation.
+seeing,touching,"In the sentence above, eyes are used to imply seeing or looking at someone. This suggests that seeing is a physical act that can be controlled like the movement of eyes, and that focus can be retained on one object or person. 
+Source Domain: physical control or manipulation.",I couldn't take my eyes off of him.
+seeing,touching,"In the sentence above, eyes are mentioned as if they have an independent seeing ability, separate from the person's consciousness and will. Therefore, eyes are compared to an agent that picks out details, like a hand that picks out an object. 
+Source Domain: agency",Her eyes picked out a detail in the pattern.
+existence,visibility,"In the sentence above, problems are talked about as something that exists and appears. This is a common metaphor used to talk about abstract concepts as if they were physical objects or entities that have a physical presence. 
+Source Domain: physical existence.",New problems keep appearing.
+existence,visibility,"In the sentence above, controversy is described as something that exists or has a tangible form, and eventually fades away, which implies that it came into being and disappeared. 
+Source Domain: physical objects with a lifespan",The controversy eventually faded away.
+darkness,solid,"In the sentence above, darkness is described as something that can be felt, like a physical object. This transfers the sense of touch from the physical world to the abstract concept of darkness. 
+Source Domain: touch/sensation",The darkness was palpable.
+darkness,solid,"In the sentence above, darkness is described as something that can press or exert force on a person. This metaphor suggests that darkness is not just the absence of light but something that can actively affect a person's experience. 
+Source Domain: physical pressure.",Darkness pressed in on all sides.
+competition,war,"In the above sentence, the debate is described as a competition, and the team is bringing out their best weapons or strategies to win. 
+Source Domain: war/weapons.",The debate team brought out their big guns.
+competition,war,"In the sentence above, the act of playing chess is used to signify competition. Thus, the game of chess is seen as a battle or a contest. 
+Source Domain: battle/contest",They battled each other over the chess board every week.
+illness,war,"In the sentence above, the disease is personified as having the ability to infiltrate and take over the body. This metaphor is used to describe how the illness spreads and takes control, just like a person or army infiltrating a territory and taking control. 
+Source Domain: invasion/takeover",The disease infiltrates your body and takes over.
+illness,war,"In the sentence above, illness is being described as something dirty that needs to be wiped out or removed. The action of wiping out is usually used in a physical sense when referring to cleaning or erasing stains or marks. Therefore, illness is conceptualized as something unwanted that needs to be completely eliminated. 
+Source Domain: cleaning/erasing stains",The doctors tried to wipe out the infection.
+words,weapons,"In the sentence above, words are described as being sharp. This is a metaphor that describes the effect that words can have on a person, just like a sharp object can cause physical harm. 
+Source Domain: sharp objects or tools.",She used some sharp words.
+words,weapons,"In the above sentence, insults are being described as something that is thrown or hurled. This suggests that words and language are being talked about as physical objects that can be thrown like projectiles. 
+Source Domain: throwing or hurling objects.",He hurled insults at her.
+adversity,weather,"In the sentence above, the word ""takeover"" implies that there is some kind of opposition or adversity that needs to be overcome. Thus, the concept of adversity is being used metaphorically to talk about the situation of a business or organization needing to take control. 
+Source Domain: adversity/challenge.",The climate is right for a takeover.
+adversity,weather,"In the above sentence, the phrase ""rained on my parade"" is used metaphorically to indicate an unfortunate event that ruined someone's plans or celebration, which refers to facing adversity. 
+Source Domain: weather/ uncontrollable events",It rained on my parade.
+communication,speech,"In the sentence above, the value of a picture is compared to the value of a thousand words, suggesting that a picture is a more effective means of communication than words. 
+Source Domain: exchange of valuable goods",A picture is worth a thousand words.
+communication,speech,"In the sentence above, the painting is being described as communicating something to the viewer. This implies that paintings, as well as other works of art, have thoughts or messages that they can transmit. 
+Source Domain: conversation/verbal communication",What does that painting say to you?
+harm,possessions,"In the sentence above, noise is described as something that caused harm, specifically a headache. This is a metaphorical transfer of the physical experience of pain onto a non-physical entity, like noise. 
+Source Domain: physical pain/harm",The noise gave him a headache.
+harm,possessions,"In the sentence above, health is being talked about as something that can be lost or taken away. The implication is that losing your health is harmful to you.
+Source Domain: harm/loss","If you don't have your health, what have you got?"
+obligations,possessions,"In the above sentence, work is described as a physical burden that needs to be carried. This means that work-related duties or obligations are conceptualized as a heavy load that one carries on their back. 
+Source Domain: physical burden/baggage.",He's carrying a heavy load at work.
+obligations,possessions,"In the sentence above, the project is being talked about as a physical object that can be dumped, thus the project is being represented as a burden or obligation that is being transferred from the speaker to another person.
+Source Domain: transferring burden or weight.",I dumped that project in his lap.
+properties,possessions,"In the sentence above, humor is being described as a property which can be attributed to someone. Just like physical objects can have different properties, such as color or shape, here the abstract entity of humor is being described in a similar way. 
+Source Domain: properties of physical objects",She has a nice sense of humor.
+properties,possessions,"In the sentence above, red hair is described as a property that can be inherited. Properties are usually used to describe physical objects and characteristics, such as color, shape, or texture. Here, properties are being used to describe the physical characteristic of hair color that can be passed down through generations. 
+Source Domain: inheritance of physical properties.",He got his red hair from his mother.
+responsibilities,possessions,"In the sentence above, blame is being talked about as something that can be received, just like receiving a physical object. This implies that the responsibility for whatever happened is being transferred to the person who got the blame. 
+Source Domain: receiving physical objects",I was the one who got the blame.
+responsibilities,possessions,"In the sentence above, charges are being talked about as something that sticks, just like glue or adhesive. Thus, the responsibility is being metaphorically transferred to the charges and making them stick refers to holding someone responsible for their actions.
+Source Domain: adhesion",They made the charges stick.
+competitors,predators,"In the sentence above, the people who criticized the speaker are being compared to a pack of dingos, thus they are seen as competitors in the argument. 
+Source Domain: animals in the wild",I said one thing and they pounced on me like a pack of dingos.
+competitors,predators,"In the sentence above, the conference room is compared to a snake pit, which is a place where a lot of venomous and aggressive snakes compete for survival. Thus, the people in the conference room are described as competitors fighting for their own interests. 
+Source Domain: competition in the natural world (survival of the fittest)",The conference room is a real snake pit today.
+harm,prey,"In the above sentence, the speaker feels vulnerable and in danger, as if they could be harmed by the sharks. This implies that the target domain is harm. The metaphorical transfer comes from the comparison of the speaker's situation to that of a small, helpless fish surrounded by dangerous predators.
+Source Domain: predator-prey relationship.",I feel like a little fish surrounded by sharks.
+harm,prey,"In the sentence above, the FBI is waiting for their quarry. The word ""quarry"" implies that the subject is being hunted down, and therefore, there is a potential for harm. The metaphorical transfer is from hunting game to hunting people.
+Source Domain: hunting.",The FBI lay in wait of their quarry for days.
+competition,race,"In the sentence above, arms race refers to a competition between countries to accumulate weapons and military power. The competitive nature of this race attributes the “arms” with qualities of speed, determination, and a will to succeed, just like athletes in a race. 
+Source Domain: race/competition",The arms race.
+competition,race,"In the sentence above, the two writers are being compared, and the use of the phrase ""widening the distance"" suggests that there is a competition between them. The writers are seen as competing in a race, where the goal is to be the best and leave the other writer behind. 
+Source Domain: race/competition","He's a better writer than I am, and he's widening the distance."
+conceit,size,"In the above sentence, the person is being described as a stuffed shirt, which means that they are too formal, rigid, and self-important. The physical object, in this case, the stuffed shirt, represents the person's inflated sense of self-importance and conceit.
+Source Domain: physical appearance",He's a stuffed shirt.
+conceit,size,"In the sentence above, the person in question is becoming grandiose, which means he is starting to think highly of himself. This suggests that the person is being described as an object that is growing or expanding, like a balloon. This connects the target domain of conceit with the source domain of inflation.",He was becoming quite grandiose when I left.
+change,replacement,"In the sentence above, the water has undergone a transformation, and now hydrogen and oxygen have replaced it. This indicates a transformation or change in the state of the water. Thus, the concept of change is being talked about here. 
+Source Domain: transformation/change.","After the experiment, the water was gone, and hydrogen and oxygen was in its place."
+change,replacement,"In the sentence above, the man has changed from someone known to the speaker to an aging fool. Change is being portrayed as something physical, where one entity is replaced by another. 
+Source Domain: physical replacement.","The man I had known was gone, and in his place was an aging fool."
+time,resource,"In the sentence above, time is described as a physical object that can run out or be used up, like a finite resource. 
+Source Domain: a finite resource",We're almost out of time.
+time,resource,"In the sentence above, time is being talked about as a resource that one can use. Time is being compared to other physical resources, like money or materials, that one can use or invest for different purposes.
+Source Domain: resources",Find a better use for your time.
+understanding,seeing,"In the sentence above, understanding is being conceptualized as light. Shedding light means providing clarity and illumination, which is the same function that understanding serves in the context of knowledge. 
+Source Domain: light and illumination.",Can you shed more light on this issue? I don't quite see what you are talking about.
+understanding,seeing,"In the sentence above, the act of seeing is compared to understanding. What is seen is selective and filtered through personal desires and preferences. Thus, understanding is talked about as a process of selective perception and interpretation.
+Source Domain: selective perception",He sees only what he wants to see.
+perception,shape,"In the sentence above, figuring someone out refers to understanding them. Understanding someone is described as a process of perception, similar to visual perception of an object in the physical world.
+Source Domain: perception",I can't figure him out.
+perception,shape,"In the sentence above, the person is being perceived as an image or an object. The verb ""cuts"" is used to describe how the person is presented visually, suggesting that the person is a physical object that can be shaped and manipulated.
+Source Domain: shaping objects.",He cuts a splendid figure.
+states,shapes,"In the above sentence, ""fitting in"" refers to a state of being accepted and included within a social group or setting. This suggests that social acceptance and belonging can be conceptualized as a physical state of fitting in or not fitting in, like a puzzle piece. 
+Source Domain: physical space and objects (puzzle pieces)",He doesn't fit in.
+states,shapes,"In the sentence above, punishment and crime are talked about as physical objects that fit together. The concept of fitting here refers to something that we usually use in the physical world, such as clothes or gears. 
+Source Domain: physical fitting",He let the punishment fit the crime
+thinking,accounting,"In the sentence above, the speaker uses the phrase ""putting two and two together"" to mean making a logical conclusion based on clues or evidence. This implies that thinking is like solving a math problem, where you have to add up pieces of information and come up with an answer. 
+Source Domain: arithmetic/mathematics",I can put two and two together.
+thinking,accounting,"In the above sentence, account refers to explaining or making sense of something. This is similar to keeping track of finances and balancing them. Therefore, the metaphor is thinking as accounting.
+Source Domain: accounting",How do you account for this fact?
+problem,location,"In the sentence above, the problem is being talked about as something that can be mapped out, just like a physical territory or a route can be mapped out. 
+Source Domain: cartography or mapping",Let's map out the problem before we do anything else.
+problem,location,"In the sentence above, the problem is being described as something that can be physically approached in terms of distance and proximity, just like a physical object. This implies that the concept of 'solving a problem' is being structured as 'reaching a destination'. 
+Source Domain: physical distance/ proximity",How close are we to finding a solution?
+existence,location,"In the above sentence, existence is described as something that can come into being, like a physical object. The metaphorical transfer is from the physical world to the abstract concept of existence. 
+Source Domain: creation of physical object.",It came into existence.
+existence,location,"In the above sentence, the question is being talked about as something that can arise or not arise. This implies that the question exists in a certain way or manner. 
+Source Domain: existence",The question simply doesn't arise here.
+meaning,container,"In the sentence above, knowledge is described as something that can be found, like a physical object that was lost and then retrieved. This implies that knowledge has a concrete form and can be obtained through a search.
+Source Domain: finding physical objects.",He found the knowledge in a new book.
+meaning,container,"In the above sentence, it is being conveyed that Harry does not put a lot of thought into his paragraphs. Thus, meaning is represented as a physical quantity that can be measured and overloaded. 
+Source Domain: weight/quantity",Harry does not exactly overload his paragraphs with thought.
+sex,competition,"In the sentence above, score refers to a successful sexual encounter, indicating a metaphorical link between sex and sports or games where points are scored. 
+Source Domain: sports/games",Did you score last night?
+sex,competition,"In the sentence above, surrendering is used to describe the act of giving up control to another person. This is a common metaphor for sex, where one person is said to “give in” or “surrender” their control to their partner.  
+Source Domain: power dynamics/control.",She surrendered to him.
+body,container,"In the above sentence, body is being used as a container for a person's age or identity. The body is compared to a physical object and age/identity is compared to something that can be trapped or contained within it.
+Source Domain: Container/Imprisonment",He's a young man trapped in an old man's body.
+body,container,"In the sentence above, a person's personality is described in terms of physical space and body. The exterior is the physical surface of a person's body, while the interior refers to what is inside the body. Thus, the body is used as a metaphor to talk about a person's personality. 
+Source Domain: physical space/body.","Once you get past his rude exterior, you'll find a warm and caring person inside."
+difficulties,container,"In the sentence above, the speaker refers to a situation as if it were a physical place or space that they got into. This implies that difficulties are spatial containment, and the metaphor being used is difficulties as a container. 
+Source Domain: container/space",How did I get myself into this situation?
+difficulties,container,"In the sentence above, the situation is being described as a place or space one could be trapped in. Thus, the difficulties are being conceptualized as being physically located in a space.
+Source Domain: physical location/space.",How do we get out of this situation?
+investment,container,"In the sentence above, putting money in bonds is compared to physically putting something in a safe place. Investment is thus described as protecting something valuable by putting it in a secure place.
+Source Domain: securing valuables",Put your money in bonds.
+investment,container,"In the sentence, ""bottom dollar"" refers to the last dollar that the speaker has left, implying that the speaker has invested or spent all of their money. Therefore, the sentence contains a metaphorical reference to investment, where money is seen as a resource that can be invested or spent. 
+Source Domain: investment",I'm down to my bottom dollar.
+obligations,container,"In the sentence above, doing the dishes is described as an obligation that needs to be avoided or escaped. Obligations are conceptualized as physical entities that can be trapped or escaped from. 
+Source Domain: trapping and escaping physical entities.",Can you get out of doing the dishes?
+obligations,container,"In the above sentence, the word ""trapped"" suggests that the person is obligated to go with him, as if they were physically trapped. Thus, obligations are being discussed as something that restricts physical movement. 
+Source Domain: physical restraint.",He trapped her into going with him.
+theories,cloth,"Theories are described as something that can be woven, suggesting that they are complex and intricate constructions. 
+Source Domain: weaving or constructing",A finely woven theory.
+theories,cloth,"In the above sentence, facts are described as naked, which means they are stripped of any interpretation or theory. The use of a physical attribute to describe non-physical entities shows a metaphorical transfer between the concrete and the abstract. 
+Source Domain: nudity",Let's look at the naked facts.
+time,container,"In the sentence above, time is described as something that can be divided into measurable units, like minutes. 
+Source Domain: measurement",He did it in three minutes.
+time,container,"In the sentence above, the person is being compared to something from the past, highlighting the fact that time is being talked about metaphorically. Time is usually understood as a linear concept, moving forward, but here it’s being described as a physical object that one can compare and relate to. 
+Source Domain: physical distance/comparison.",He's like something out of the last century.
+darkness,cover,"In the sentence above, darkness is used in a metaphorical sense to describe the covering or hiding of something. It suggests that darkness can act as a cover or cloak. 
+Source Domain: cover/hiding",Under cover of darkness.
+darkness,cover,"In the sentence above, darkness is described as something that can close in on us, just like a physical object that can enclose us. Therefore, the darkness is being talked about as if it were a tangible and physical thing that can move and surround us. 
+Source Domain: physical enclosure",Darkness closed in over us.
+money,liquid,"In the sentence above, money is portrayed as a liquid that can dry up, like water. This comparison suggests that money has a fluid quality and can be easily lost or depleted. 
+Source Domain: liquid/fluidity",My money is all dried up.
+money,liquid,"In the sentence above, money is being talked about as if it were a liquid, something that can be poured. Thus, the concept of money flow is being described metaphorically through the concept of liquid flow.
+Source Domain: liquid flow.",Don't pour your money down the drain.
+harm,destruction,"In the sentence above, rebellion is a metaphor for an entity that can be physically crushed, like a object made of a malleable material. Thus, harm is inflicted upon the rebellion. 
+Source Domain: physical force/movement.",He crushed the rebellion.
+harm,destruction,"In the sentence above, the use of the verb ""wrecked"" indicates that the marriage was damaged or destroyed. Thus, marriage is viewed as a physical object which can be damaged or broken. 
+Source Domain: physical objects being harmed or broken",She wrecked our marriage.
+strong emotion,blindness,"In the sentence above, love is metaphorically compared to something that can cause blindness, which implies that it is a strong emotion that can impair one's judgment or perception. 
+Source Domain: visual impairment/blindness",He was blinded by love.
+strong emotion,blindness,"In the sentence above, excitement is described as something that can dazzle, like a bright light. The use of ""dazzled"" suggests that the excitement is so intense that it has a blinding effect on the person experiencing it.
+Source Domain: light",They were dazzled with excitement.
+active,alive,"In the above sentence, the party is described as if it were a living being. The use of the adjective “alive” suggests that the party was active and dynamic. 
+Source Domain: life/ living beings",The party was really alive
+active,alive,"In the sentence above, the word ""lively"" is used to describe someone or something that is active and enthusiastic. The verb ""liven"" is used to mean to make something more active or lively. Thus, activity is being abstractly linked to liveliness. 
+Source Domain: life or vitality","Lively, liven (lexical examples)"
+people,batteries,"In the sentence above, the person is described as being charged up and full of energy, as if they were a battery or an electrical device. This is an attempt to convey a sense of increased physical readiness or alertness. 
+Source Domain: electricity/battery",I'm all charged up and full of energy.
+people,batteries,"In the sentence above, ""I"" is compared to a car that needs a jump start, which is a physical object that helps to restart a car's battery. Thus, the metaphor implies that people can also need external stimuli or help to start their day or week. 
+Source Domain: mechanics of a car",I need a jump start on Monday mornings
+mind,body,"In the sentence above, the mind is being described using adjectives that are usually used in talking about the body. Strong and supple are adjectives commonly used to describe the physical attributes of the body. Thus, the mind is being indirectly compared to the body.
+Source Domain: body fitness",His mind is strong and supple.
+mind,body,"In the sentence above, the idea is described as something physical that can slip through fingers. This metaphor suggests that ideas are seen as tangible objects that are handled and manipulated. 
+Source Domain: physical objects",The idea just slipped through my fingers.
+problem,body of water,"In the sentence above, the problem is described as something that can be physically dived into, thus it has properties of water. 
+Source Domain: water",He dived right into the problem.
+problem,body of water,"In the sentence above, coming up empty refers to the lack of success in finding a desired solution or outcome. This implies that the problem is being treated like a physical container to search for something in, but the search is unsuccessful. 
+Source Domain: searching in a container.",He kept coming up empty.
+importance,centrality,"In the sentence above, details can be stripped away, indicating that they have weight or value. The word ""unimportant"" suggests that there are important details which need to be retained. Therefore, importance can be seen as a property of objects that can be added or removed. 
+Source Domain: physical objects being stripped of their properties.",Let's strip away all the unimportant details.
+importance,centrality,"In the above sentence, the term 'peripheral issue' implies that the issue is not at the center or core, but rather at the edges. This represents the metaphorical mapping of the target domain of importance onto the source domain of physical orientation and spatial location. 
+Source Domain: physical orientation and spatial location.",That's just a peripheral issue.
+disparity,change,"In the sentence above, the height of the phone poles changes as one gets closer to the freeway. This change in height creates a sense of difference or discrepancy between the two areas. Thus, the sentence implies a metaphorical sense of disparity between different positions or places.
+Source Domain: height or physical distance",The phone poles get taller as you approach the freeway.
+disparity,change,"In the sentence above, the fact that the president changes every four years suggests that there is a natural cycle of change that is inherent to the position of the presidency. This implies that variations and differences in leadership are expected and normal, thus suggesting a conceptual metaphor of disparity. 
+Source Domain: cycle of change/rotation",The president changes every four years.
+obligations,children,"In this sentence, the phrase ""his baby"" is being used to describe something that is important and requires a lot of attention and care. The phrase is metaphorical and implies that the person has an obligation to take care of the task at hand as they would take care of their own child. 
+Source Domain: taking care of a child",The setting of salaries is his baby.
+obligations,children,"In the sentence above, duties are described as something that can be neglected, just like a plant or a child can be neglected. Neglecting duties is a metaphorical transfer from neglecting physical objects or living beings.
+Source Domain: neglecting living things or objects.",He's been neglecting his duties.
+purpose,direction,"In the sentence above, the person is described as floating around, meaning they don't have a clear direction or goal. This implies that movement without direction is undesirable, linking purpose with movement. 
+Source Domain: direction/movement",He is just floating around.
+purpose,direction,"In the sentence above, direction is used as a metaphor for purpose or goal. The person described has no clear purpose or direction in life, just like a drifter who does not have a clear destination or route. 
+Source Domain: travel/direction",She is a drifter with no direction.
+facial expression,cover,"In the sentence above, the smile is being talked about as something that can be wiped off, like a physical thing, thus, it is being conceptualized as a stain or dirt on a person's face. 
+Source Domain: cleaning/erasing",Wipe that smile off your face.
+facial expression,cover,"In the sentence above, a facial expression is described as something that can be lifted, just like a weight or a burden in the physical world. 
+Source Domain: lifting a weight/burden.",The disquiteting expression was lifted from her face.
+defeat,drowning,"In the sentence above, the phrase ""keep my head above water"" is a metaphorical expression that means to survive or to avoid being overwhelmed by difficulties. The metaphor is based on the idea of a person who is struggling to stay afloat in water and not drown. Therefore, the metaphor suggests that the person is facing a challenging situation and is trying to avoid being defeated by it.
+Source Domain: drowning/water survival",I'm just trying to keep my head above water.
+defeat,drowning,"In the sentence above, getting in over your head is used to describe a situation where someone faces defeat because they have unknowingly taken on more than they can handle. This metaphor draws from the physical experience of swimming in deep water, where the water can be over one's head and lead to drowning. 
+Source Domain: swimming/drowning",Try not to get in over your head.
+emotion stability,grounding,"In the sentence above, having one's ""feet on the ground"" means having emotional stability and being practical. This is because physical stability is used as a metaphor for emotional stability. 
+Source Domain: physical stability",She has her feet on the ground.
+emotion stability,grounding,"In the above sentence, being ""up in the air"" refers to a state of uncertainty or indecisiveness. The metaphorical mapping is from physical stability (being grounded) to emotional stability. 
+Source Domain: physical stability",I'm up in the air.
+intelligence,light,"In the sentence above, ""bright"" is used to describe intelligence or mental ability. The brightness of an object is associated with its visibility and clearness. Thus, the sentence is likening intelligence to something that is clear and visible. 
+Source Domain: brightness or light",He is very bright.
+intelligence,light,"In the above sentence, dim is used to describe a person who is not very intelligent or bright. The quality of brightness is used to describe a person's mental capacity. 
+Source Domain: brightness",I always thought he was a little dim.
+hope,light,"In the above sentence, clouds are being used as a metaphor for hope. Just like clouds bring the possibility of rain, they also bring a possibility of hope. 
+Source Domain: weather/clouds",The clouds were a glimmer of hope that rain might come.
+hope,light,"In the sentence above, hope is described as something that can be dim, just like light. This implies that hope can be quantified and that it can be brighter or dimmer depending on the circumstances.
+Source Domain: light/darkness.",I have a very dim hope that he'll recover.
+amount,length,"In the sentence above, money is described as a quantity that can be measured, just like a physical object. Thus, the sentence uses a metaphor to describe money as something that is tangible and measurable.
+Source Domain: measuring quantity",He's short of money.
+amount,length,"In the above sentence, intelligence is being quantified like a physical object that can be measured in terms of quantity or amount. 
+Source Domain: measuring quantity or amount.",He's short on intelligence.
+time,landscape,"In the sentence above, the phrase ""coming up on"" is used to refer to the approaching Christmas holiday. This metaphorical usage indicates that time is being thought of as a physical distance or space that can be traversed. 
+Source Domain: space/distance",We're coming up on Xmas.
+time,landscape,"In the sentence above, time is described as a physical distance that can be traveled. Just like someone can make it to a specific location, they can also make it to a specific time. 
+Source Domain: space/location",He didn't make it to Tuesday.
+love,journey,"In the sentence above, the crossroads is a metaphor for a decision point. This means that the relationship is at a point where a decision needs to be made, and different paths can be taken. 
+Source Domain: paths/roads",They are at a crossroads in their relationship.
+love,journey,"In the sentence above, marriage is described as something that can go off the track. The metaphor implies that love is like a train that needs to be kept on track to avoid accidents. 
+Source Domain: train travel.",Their marriage has really gone off the track.
+life,journey,"In the sentence above, life is being talked about as a journey with a destination, and the act of enjoying the journey is emphasized over knowing or reaching the destination. Life is being conceptualized as a journey or a path with ups and downs, twists and turns, and different experiences. 
+Source Domain: journey/path.","I don't know where I'm headed, but I'm enjoying getting there."
+life,journey,"In the sentence above, the person is described as heading towards great things, implying that their life is a journey that has a destination. Life is being metaphorically compared to a journey that has a direction and a goal. 
+Source Domain: journey/direction/goal",He's headed for great things.
+love,insanity,"In the sentence above, raving is used to describe the way in which he talks about her. Raving is associated with ecstatic and uncontrollable behavior, thus, suggesting an intensity of emotions. Therefore, the sentence is using the metaphor of love as a strong force that can make people act uncontrollably. 
+Source Domain: uncontrollable behavior.",He raves about her.
+love,insanity,"In the sentence above, love is being compared to being mad. Love is described in terms of madness, which suggests a lack of control and rationality.
+Source Domain: madness",She is madly in love.
+desire,hunger,"In the sentence above, drooling is used as an action to express desire. This implies that desire is equated with a physical act of drooling. 
+Source Domain: physical reaction",He was drooling over her.
+desire,hunger,"In the above sentence, hunger is used to describe a strong desire. Hunger is a basic physical need that drives humans to seek food for survival. By using the word hunger to describe desire, the sentence is creating a metaphor between the two domains.
+Source Domain: basic physical need (hunger)",He hungers for her touch.
+anger,heat,"In the sentence above, the person is described as a hothead. This implies that like a heated object, the person gets hot-headed or angry very quickly. 
+Source Domain: temperature (heat)",She's a real hothead.
+anger,heat,"In the sentence above, anger is being compared to fire or burning. Smouldering is a term used to describe burning or glowing with little smoke and no flame, which is an image associated with anger being kept under control, yet still present. 
+Source Domain: fire/burning.",His eyes smouldered with rage.
+beliefs,guides,"In the sentence above, beliefs are described as something that governs a person, just like a government governs a country. The use of the word ""govern"" implies that beliefs have control and authority over a person's actions and decisions.
+Source Domain: government/politics",You are governed by your beliefs.
+beliefs,guides,"In the sentence above, beliefs are being described as something that can be journeyed or traveled through. Beliefs are compared to a path or a route, implying that they guide and direct a person. 
+Source Domain: path/route",You go by your beliefs.
+final state,goal,"In the sentence above, the phrase “ended up” indicates the final state of exhaustion. The word ""ended"" refers to reaching the final point of something. Thus, exhaustion is seen as a final state or destination. 
+Source Domain: travel/destination",I ended up exhausted.
+final state,goal,"In the sentence above, bankruptcy is the final state or outcome of his reckless investments. Bankruptcy is talked about as a place or a destination that he is being taken to by the actions of his investments.
+Source Domain: physical destination or journey",His reckless investments are taking him into backruptcy.
+emotion,force,"In the above sentence, the speaker is describing their emotional reaction to the poem. Thus, emotions are being talked about as something that can cause physical movement or displacement in the body. 
+Source Domain: physical movement/displacement",I was moved by the poem.
+emotion,force,"In the sentence above, the person is described as being carried away by the song. This implies that the person is deeply emotionally moved by the song, and emotions are being talked about as something that can physically transport a person. 
+Source Domain: physical movement/transportation",She was carried away by the song.
+competition,fight,"In the sentence above, the speaker is describing a game of tennis as a physical fight. ""Clobber"" is a word used to describe hitting someone hard, suggesting a violent physical activity instead of a friendly game. 
+Source Domain: physical fight/violence.",He clobbered me at tennis.
+competition,fight,"In the sentence above, the swim teams are being talked about as if they were boxers, using the verb “to slug it out” which is usually used in a physical fight. The competition is thus understood as a physical fight between two opponents. 
+Source Domain: physical fight",Those swim teams have been slugging it out all season.
+light,fluid,"In the sentence above, light is described as a substance that can be poured, like a liquid. This metaphorical phrase emphasizes the quantity and intensity of the light entering the room. 
+Source Domain: liquid",Sunlight poured into the room.
+light,fluid,"In the sentence above, light is being described as a physical substance. By using the word “pools,” which is typically used to describe liquid, light is being metaphorically transformed into a physical substance that can be collected and scattered. 
+Source Domain: liquid substance",Pools of light were scattered across the clearing.
+ideas,food,"In the sentence above, food is used as a metaphor to describe ideas. Just like food nourishes the body, ideas nourish the brain. 
+Source Domain: nourishment/food",She gave us some brain food.
+ideas,food,"In the sentence above, the word ""feed"" is used to describe the transmission of information from London, indicating that ideas are being consumed by the receiver. This suggests that information is a form of food that is consumed by the mind. 
+Source Domain: food/consumption",We have a live satellite feed from London.
+desire,force,"In the sentence above, the attraction between the two people is described as being drawn to each other, thus suggesting desire or a strong pull towards one another. 
+Source Domain: magnetism or attraction",They were drawn to each other.
+desire,force,"In the sentence above, the electricity is used as a metaphor for the attraction or desire felt between the speaker and the other person. It is not referring to actual electricity. 
+Source Domain: electricity (as a metaphor for desire or attraction)",I could feel the electricity between us.
+communication,writing,"In the sentence above, guilt is described as something that is written on one's face. This metaphor suggests that emotions can be communicated or conveyed through physical appearance, like writing a message on a piece of paper.
+Source Domain: writing/messages",His guilt was written all over his face.
+communication,writing,"In the above sentence, the speaker is using the verb “to spell” to emphasize that they need to explain something in very clear terms. Thus, communication is being described as a process of spelling out sounds or words, just like in the physical world. 
+Source Domain: spelling words",Do I have to spell it out for you?
+influence,force,"In the sentence above, influence is described as something that can be exerted, just like physical force. Thus, the concept of influence is being talked about in terms of exerting force on an object. 
+Source Domain: physical force.",He can exert his influence on her.
+influence,force,"In the above sentence, pressure is being used as a metaphor for the exertion of influence or force. Just like physical pressure can make an object move or change its shape, exerting pressure can make someone make a decision or take action. 
+Source Domain: physical pressure",Reagan brought pressure to bear upon his cabinet.
+end of action,goal,"In the sentence above, the process is compared to a journey that one takes from the beginning to the end. The end of the process is thus seen as the end of a journey. 
+Source Domain: journey",We are reaching the end of the house-buying process.
+end of action,goal,"In the sentence above, filing for bankruptcy is being described as something that has stages, with a clear beginning and end. Thus, the end of the action of filing for bankruptcy is being talked about metaphorically as the last stages. 
+Source Domain: journey or process",We are entering the last stages of filing for bankrupcy.
+getting,eating,"In the sentence above, the phrase ""cough up"" is used as a metaphorical way of saying to retrieve or obtain money. This metaphor is derived from the physical act of coughing something up or bringing something up from the depths of one's body, thus the source domain would be removing something from the inside of oneself.",Cough up the money you owe me!
+getting,eating,"In the sentence above, the speaker is providing funds illegally. The act of providing funds can be seen as a physical transfer of objects or substances, and in this case, the funds are being treated as a kind of food that sustains the recipient. Thus, the sentence employs a conceptual metaphor where giving money is like feeding something. 
+Source Domain: feeding",I've been feeding him funds illegally for a year.
+problem,path,"In the above sentence, the line of thinking refers to a series of connected ideas or thoughts that are being explored. The sentence uses the metaphor of following a line, like a path, to describe the process of exploring and navigating through these ideas.
+Source Domain: path",Let's follow this line of thinking.
+problem,path,"In the above sentence, it is implied that there was a problem with the thinking that needs to be corrected. Thinking is being described as a train that is getting back on track to its intended destination.
+Source Domain: transportation/trains.",Let's get our thinking back on track.
+intoxication,electrification,"In the sentence above, wired is used to describe a state of being. Wired is typically used to describe being under the influence of stimulants, such as caffeine or amphetamines. Thus, the metaphorical understanding of being wired is being high or intoxicated. 
+Source Domain: intoxication",He was wired.
+intoxication,electrification,"In the sentence above, ""lit"" is being used in a metaphorical sense to indicate that the person is intoxicated, as if they were on fire or being illuminated by lights. 
+Source Domain: light/intensity",He was lit.
+emotion,heat,"In the above sentence, the crowd is described as being fired up. Fire and heat are usually associated with intense emotions like excitement or anger. Here, the emotional state of the crowd is being compared to a physical sensation of heat. 
+Source Domain: heat and fire",The crowd was all fired up.
+emotion,heat,"In the sentence above, the emotion is described as ""burning"", which is a physical sensation or experience. This implies that emotions are being conceptualized as physical objects that can cause physical sensations. 
+Source Domain: physical sensation or experience.",He had a burning emotion.
+affection,warmth,"In the sentence above, the welcome is described as being warm. The warmth in this context refers to the person's affection towards the speaker, creating an emotional connection between the two. 
+Source Domain: physical temperature",They gave me a warm welcome.
+affection,warmth,"In the sentence above, ""warming up"" refers to becoming more friendly and familiar with someone over time. The metaphorical transfer is from physical warmth to emotional warmth or affection. 
+Source Domain: temperature or warmth.",He took a while to warm up to me.
+compliance,following,"In the sentence above, ""went along"" refers to compliance where the person follows what they were told to do. ""Going along"" is a metaphor that compares compliance to physical movement in the same direction as someone else. 
+Source Domain: physical movement.",He went along with what he was told to do.
+compliance,following,"In the sentence above, the subject followed the orders. Following is a movement verb and orders are something that needs to be followed, indicating that compliance is being described metaphorically as physical movement.
+Source Domain: physical movement",He followed his orders.
+ideas,container,"In the sentence above, ideas are being described as something that can be physically held inside the mind, like an object that can be removed. 
+Source Domain: objects inside a container",I can't get this idea out of my mind.
+ideas,container,"In the sentence above, ""mind"" is used to refer to the ideas or thoughts that someone has. This implies that ideas are located within someone's mind, and can be brought out and communicated to others. 
+Source Domain: location within a physical space.",What did you have in mind?
+more,up,"In the sentence above, the quantity of people is being described as going up. This implies there is more than there was before, which is the basic concept of ""more"". 
+Source Domain: quantity/comparison",The number of people living in poverty went up.
+more,up,"In the sentence above, assignments are described in terms of quantity, there is a perceived excess or abundance of assignments. Thus, to decrease means to take away from the quantity or amount of assignments. 
+Source Domain: quantity/amount.",Can you please decrease the number of assignments?
+ideas,object,"In the sentence above, ideas are being talked about as a physical object that can be given away or transferred from one person to another. This suggests that ideas are treated as possessions in this metaphor. 
+Source Domain: Possessions",Sally gave the idea to Sam.
+ideas,object,"In the sentence above, the idea is referred to as a commodity that can be bought and sold, like a physical object. This suggests that there is a metaphorical mapping between ideas and physical commodities. 
+Source Domain: commerce/trade.",IBM bought the idea from him.
+strong emotion,insanity,"In the sentence above, grief is referred to as something that can make someone lose their mind. Emotions are being described as forces that can affect the mind and cause it to behave in irrational ways.
+Source Domain: force affecting a physical object (mind)",He's out of his mind with grief.
+strong emotion,insanity,"In the sentence above, jealousy is described as something that can make someone mad or crazy. This suggests a strong emotional reaction to jealousy.
+Source Domain: insanity or loss of control",I'm mad with jealousy.
+intoxication,burden,"In the above sentence, the word ""loaded"" is used metaphorically to mean intoxicated or drunk. The concept of being ""loaded"" is understood through the related concept of being under the influence of a substance. 
+Source Domain: substance abuse.",She was loaded.
+intoxication,burden,"In the sentence above, tanked up is used to refer to the state of being intoxicated. Tanked up is a phrase that is usually used in regards to filling up an object with liquid or gas, making it full or overflowing. This metaphor is transferred to the state of being drunk or intoxicated. 
+Source Domain: filling up an object with liquid or gas",She was tanked up.
+rational,up,"In the above sentence, the rational plane refers to a higher level of discussion or thinking, while the emotional level is considered a lower level. This implies a conceptual metaphor where reasoning or logical thinking is associated with being higher or above emotional thinking or feeling. 
+Source Domain: verticality (higher vs. lower)","The discussion fell to the emotional level, but I raised it back up to the rational plane."
+rational,up,"In the sentence above, emotions are being talked about as a physical obstacle that prevents someone from rising, that is, getting ahead. Thus, rationality is being compared to physical elevation. 
+Source Domain: physical elevation",He couldn't rise above his emotions.
+excitement,insanity,"In the above sentence, excitement is described as something that is driving a person. This is a metaphorical transfer of the concept of driving a vehicle onto the abstract concept of excitement. 
+Source Domain: driving a vehicle.",The excitement is driving me over the edge.
+death,not metaphoric,"In the sentence above, death is being described as an event that can be found, just like an object or a location. This implies that death is being conceptualized as a physical entity or object. 
+Source Domain: objects/locations.",The day of the hearing of her second case she had been found dead.
+emotions,not metaphoric,"In the sentence above, the speaker is describing their emotional state using the physical sensation of an electric shock. This highlights the connection between physical sensations and emotions.
+Source Domain: physical sensation.",I was shocked for a minute.
+moving,not metaphoric,"In the sentence above, advancing is used to describe Daniel's movement. Movement is being talked about as forward advancement. 
+Source Domain: forward advancement",They saw Daniel advancing.
+memories,not metaphoric,"In the above sentence, the absence of anything that reminds the person of Ecalpemos indicates that memories are being referred to as physical objects that can be present or absent in a certain physical space, such as a house. 
+Source Domain: physical objects in a space.",There was nothing in his house to remind him of Ecalpemos.
+sleep,not metaphoric,"In the sentence above, the state of being asleep is described as a destination that one can almost reach, similar to a physical location. 
+Source Domain: physical location/destination",She was almost asleep.
+family,not metaphoric,"In the sentence above, the possession, “parents’ house,” is used to describe where Adam is located, implying a relationship between Adam and his parents. The concept of family is being used in a metaphorical sense to talk about the location of Adam. 
+Source Domain: possession/ location","Adam sat in his parents' house, drinking tea."
+newspapers,not metaphoric,No conceptual metaphor is being used in this sentence. It is a literal statement indicating a lack of exposure to English newspapers.,He did not even see an English newspaper.
+liking,not metaphoric,"In the above sentence, the subject talks about her feelings about Miss Fitch. Liking is often described as a positive experience involving feelings of attraction and affinity. Here, the absence of liking is treated as something that can be explicitly stated and described.
+Source Domain: sense of taste or preference.",I don't like Miss Fitch.
+understanding,not metaphoric,"In the sentence above, understanding is being talked about as a physical location that you can be in or out of. If you don’t understand something, you are considered to be outside of its “area” or “location”. 
+Source Domain: physical location",I don't understand business.
+distance,not metaphoric,"In the sentence above, the concept of distance is being communicated through the use of the word ""near."" Near implies a physical proximity between two objects, which does transferred to the concept of distance. 
+Source Domain: physical proximity.",They ought to be near him soon.
+doors,not metaphoric,"In the above sentence, the door is being talked about as something that can be opened. This suggests the door is more than just a physical object, but representative of access or opportunity. 
+Source Domain: access/opportunity",And don't try and get the door open.
+scanning ,not metaphoric,"In the sentence above, scanning is used in a literal sense, referring to the physical act of looking quickly up and down to gather information. 
+Source Domain: not metaphoric",Lawton scanned upwards.
+distance,not metaphoric,"In the sentence above, the speaker implies that distance has a positive effect. The further away something is, the better it is. Thus, distance is described as a positive attribute. 
+Source Domain: positivity",The further away the better.
+arriving ,not metaphoric,"In the sentence above, Lawton is described as ""coming"" to the object. Coming is a verb that is often used to describe physical movement towards a destination. Here, Lawton's movement towards the object is being described using physical verbs to convey the sense of arriving at a destination. 
+Source Domain: physical movement",Lawton came and crouched down in front of it.
+ideas,not metaphoric,"In the sentence above, ideas are being referred to as something that can be ""good"" or ""bad"", like physical objects. This suggests that ideas are being talked about as if they have inherent properties and can be evaluated based on those properties.
+Source Domain: inherent properties of physical objects.",I think it 's a good idea.
+communication,not metaphoric,"In the sentence above, the lack of communication is being described. Nobody speaking is like a quiet physical space, as if there is an absence of sound. Thus, the lack of communication is being compared to silence in the physical world.
+Source Domain: silence",Nobody spoke immediately.
+results,not metaphoric,"In the above sentence, the output from the system is being described as both tabular and graphical. The word output suggests that results are being produced. Results are being compared to something that can be seen, like a table or a graph, which are physical objects. 
+Source Domain: physical objects",Output from the system is both tabular and graphical .
+paths  ,not metaphoric,"In the sentence above, routes are being described as chosen paths. This metaphorical transfer implies that choosing a route is similar to choosing a physical path. 
+Source Domain: physical paths",Chosen routes were those which minimized population rather than distance.
+property,not metaphoric,"In the sentence above, cattle and land are referred to as something that can be sold, thus reduced to a commodity that can be bought and sold. Therefore, property is being talked about as a commercial product. 
+Source Domain: commercial exchange",Are we to sell our cattle or our land? 

@@ -1,0 +1,245 @@
+,Target Domain,Source Domain,GPT3 Completion,Example,embedding_sim
+0,intoxication,destruction, intoxication/alcohol consumption,He was wrecked.,0.12488222122192383
+1,intoxication,destruction, physical force or action.,He got thrashed.,0.1865496188402176
+2,amount,size, division of physical objects.,Can you break a twenty?,0.3727107048034668
+3,amount,size, physical size or power,I'm not a big eater.,0.7297335267066956
+4,beliefs,plants, planting/growing a physical object or a seed.,I planted the belief in his mind.,0.3496921956539154
+5,beliefs,plants, plant growth or life,This is a flourishing belief in this culture.',0.6291696429252625
+6,success,goal, travel or journey,We've made it this far in our efforts to solve the problem.,0.1462807059288025
+7,success,goal, journey/destination.,We only have a short ways to go on solving this puzzle.,0.14869040250778198
+8,subjects,areas, survey research,The researchers surveyed the new material.,0.35246899724006653
+9,subjects,areas, exploration/colonization of new territory,"Your dissertation should stake out new territory, preferably virgin territory.",0.48618343472480774
+10,disgust,nausea, illness,You make me sick!,0.3632325828075409
+11,disgust,nausea, disgust,She's a nauseating person.,0.21981249749660492
+12,emotion,object, physical damage or destruction,She was shattered by his death.,0.34904876351356506
+13,emotion,object, destruction or disintegration,She fell apart.,0.18271321058273315
+14,mind,object, breaking or shattering something physical.,He cracked up.,0.330166757106781
+15,mind,object, fragility in physical objects,He's mentally fragile.,0.5379429459571838
+16,opportunities,object, movement/location,Don't let the opportunity pass you by.,0.35931357741355896
+17,opportunities,object, taking physical objects.,I took the job when it became available.,0.3461223840713501
+18,problem,object, composition of physical objects.,Let's look at the make-up of this problem.,0.3936512768268585
+19,problem,object, physical object destruction.,He tore the problem apart looking for its solution.,0.8257023096084595
+20,morality,accounting, finance/money,You have to pay for your mistakes.,0.3903976380825043
+21,morality,accounting, debt repayment or compensation,I'll make it up to everyone for what I've done.,0.34360671043395996
+22,relationship,musical harmony, music,They had a harmonious relationship.,0.6209965944290161
+23,relationship,musical harmony, music,They are out of tune with each other.,0.6209965944290161
+24,harm,path, harm or damage,How am I supposed to learn anything if the school keeps placing roadblocks in my way?,0.24890151619911194
+25,harm,path, burden/weight,It's hard to reach the top when you're saddled with an unwanted baby.,0.13765977323055267
+26,morality,path, direction/movement,I think he's being straight with me.,0.49926942586898804
+27,morality,path, physical movement or direction.,She has strayed.,0.32693028450012207
+28,creation,plants, gardening/horticulture,He planted seeds of doubt in my mind.,0.24922530353069305
+29,creation,plants, agriculture/horticulture,China is a fertile ground for revolt.,0.29240089654922485
+30,people,plants, plants/gardening,She's a late bloomer.,0.7824901938438416
+31,people,plants, personification of death.,The grim reaper.,0.11211679130792618
+32,time,moving object, motion or movement,Thursday passed without incident.,0.47852712869644165
+33,time,moving object, physical space/movement,What events are up ahead?,0.5281611084938049
+34,schedule,moving object, motion/movement,He finally caught up to schedule.,0.47852712869644165
+35,schedule,moving object, movement,The class was trying to keep up with the schedule.,0.3277096450328827
+36,causation,money, cause-and-effect relationship,He profitted from experience.,0.4130348861217499
+37,causation,money, action and consequence,Reckless skiing cost her a leg.,0.41797488927841187
+38,states,locations, states of being,He is in love.,0.34091880917549133
+39,states,locations, process or progression,He is at a certain stage in his studies.,0.08821876347064972
+40,beliefs,lovers, romantic relationship/dating,He flirted with a belief in utter hedonism in his youth.,0.4242003858089447
+41,beliefs,lovers, seduction,That's a seductive belief.,0.2833770513534546
+42,lust,machine, electricity/switches.,You turn me on.,0.14223264157772064
+43,lust,machine, mechanical device,"Turn my crank, baby.",0.4639049470424652
+44,mind,machine, machine/ mechanical objects.,He has a screw loose.,0.8311542272567749
+45,mind,machine, machine or factory,He churns out ideas. ,0.6783309578895569
+46,people,machine, machine/system failure.,He had a breakdown.,0.824089527130127
+47,people,machine, machines/fuel,Fuel up with a good breakfast.,0.6099305152893066
+48,force,moving object, physical force and movement,Greed is the strongest evil force at work in the world today.,0.5061472058296204
+49,force,moving object, physical strength.,The force of gravity on the moon is much weaker.,0.3609826862812042
+50,change,motion, physical movement or journey,He went from innocent to worldly.,0.3339157700538635
+51,change,motion, physical change,His hair went gray.,0.381538063287735
+52,ideas,motion, toys/games.,I'm playing with the idea of a trip to Hawaii.,0.0770249217748642
+53,ideas,motion, transportation infrastructure.,She's got a one-track mind,0.13466453552246094
+54,shape,motion, physical stability or structure,The tower leans.,0.2773173749446869
+55,shape,motion, physical shapes,The roof slopes down before it drops off steeply.,0.2997557818889618
+56,lover,possession, possessions,My friend stole my loved one from me.,0.5373574495315552
+57,lover,possession, war/battle,I'm going to get him back.,0.17996267974376678
+58,beliefs,possessions, physical grasping or holding onto objects.,She clings to his beliefs.,0.2657804787158966
+59,beliefs,possessions, toys,I briefly toyed with a belief in a higher power.,0.16666287183761597
+60,harm,location, harm or danger.,I am in trouble.,0.10214008390903473
+61,harm,location, physical force or pushing.,They're driving me over the edge.,0.24761751294136047
+62,laughter,substance, extraction of physical objects,You can't get a single joke out of him.,0.3875373303890228
+63,laughter,substance, tearing/ripping,He was ripping with laughter.,0.011280003935098648
+64,beliefs,support, physical structure or building,He chipped away at the foundation for her beliefs.,0.3402132987976074
+65,beliefs,support, support/defense,What view does he uphold?,0.8143624663352966
+66,problem,target, war or hunting,The mayor targetted the problem of homelessness.,0.24889864027500153
+67,problem,target, problem,He spearheaded the investigation.,0.2420109659433365
+68,seeing,touching, physical control or manipulation.,I couldn't take my eyes off of him.,0.19228775799274445
+69,seeing,touching, agency,Her eyes picked out a detail in the pattern.,0.012665987946093082
+70,existence,visibility, physical existence.,New problems keep appearing.,0.10877065360546112
+71,existence,visibility, physical objects with a lifespan,The controversy eventually faded away.,0.14778633415699005
+72,darkness,solid, touch/sensation,The darkness was palpable.,0.14047777652740479
+73,darkness,solid, physical pressure.,Darkness pressed in on all sides.,0.24535544216632843
+74,competition,war, war/weapons.,The debate team brought out their big guns.,0.9999999403953552
+75,competition,war, battle/contest,They battled each other over the chess board every week.,0.4530579447746277
+76,illness,war, invasion/takeover,The disease infiltrates your body and takes over.,0.45235759019851685
+77,illness,war, cleaning/erasing stains,The doctors tried to wipe out the infection.,0.010527211241424084
+78,words,weapons, sharp objects or tools.,She used some sharp words.,0.27374953031539917
+79,words,weapons, throwing or hurling objects.,He hurled insults at her.,0.17716197669506073
+80,adversity,weather, adversity/challenge.,The climate is right for a takeover.,0.12344232201576233
+81,adversity,weather, weather/ uncontrollable events,It rained on my parade.,0.6986182332038879
+82,communication,speech, exchange of valuable goods,A picture is worth a thousand words.,0.24081303179264069
+83,communication,speech, conversation/verbal communication,What does that painting say to you?,0.4575619697570801
+84,harm,possessions, physical pain/harm,The noise gave him a headache.,0.13379710912704468
+85,harm,possessions, harm/loss,"If you don't have your health, what have you got?",0.22571496665477753
+86,obligations,possessions, physical burden/baggage.,He's carrying a heavy load at work.,0.15509970486164093
+87,obligations,possessions, transferring burden or weight.,I dumped that project in his lap.,0.20006756484508514
+88,properties,possessions, properties of physical objects,She has a nice sense of humor.,0.31601542234420776
+89,properties,possessions, inheritance of physical properties.,He got his red hair from his mother.,0.3306642770767212
+90,responsibilities,possessions, receiving physical objects,I was the one who got the blame.,0.2632843852043152
+91,responsibilities,possessions, adhesion,They made the charges stick.,0.021752137690782547
+92,competitors,predators, animals in the wild,I said one thing and they pounced on me like a pack of dingos.,0.3367427587509155
+93,competitors,predators, competition in the natural world (survival of the fittest),The conference room is a real snake pit today.,0.15264812111854553
+94,harm,prey, predator-prey relationship.,I feel like a little fish surrounded by sharks.,0.8757701516151428
+95,harm,prey, hunting.,The FBI lay in wait of their quarry for days.,0.0
+96,competition,race, race/competition,The arms race.,0.8260126709938049
+97,competition,race, race/competition,"He's a better writer than I am, and he's widening the distance.",0.8260126709938049
+98,conceit,size, physical appearance,He's a stuffed shirt.,0.3680126368999481
+99,conceit,size, conceit,He was becoming quite grandiose when I left.,-0.08904778212308884
+100,change,replacement, transformation/change.,"After the experiment, the water was gone, and hydrogen and oxygen was in its place.",0.1424809992313385
+101,change,replacement, physical replacement.,"The man I had known was gone, and in his place was an aging fool.",0.2184009701013565
+102,time,resource, a finite resource,We're almost out of time.,0.7230527997016907
+103,time,resource, resources,Find a better use for your time.,0.7620533108711243
+104,understanding,seeing, light and illumination.,Can you shed more light on this issue? I don't quite see what you are talking about.,0.39283397793769836
+105,understanding,seeing, selective perception,He sees only what he wants to see.,0.2718672752380371
+106,perception,shape, perception,I can't figure him out.,0.31671780347824097
+107,perception,shape, shaping objects.,He cuts a splendid figure.,0.44261616468429565
+108,states,shapes, physical space and objects (puzzle pieces),He doesn't fit in.,0.3626130521297455
+109,states,shapes, physical fitting,He let the punishment fit the crime,0.353108674287796
+110,thinking,accounting, arithmetic/mathematics,I can put two and two together.,0.246509850025177
+111,thinking,accounting, accounting,How do you account for this fact?,0.9999999403953552
+112,problem,location, cartography or mapping,Let's map out the problem before we do anything else.,0.200295090675354
+113,problem,location, physical distance/ proximity,How close are we to finding a solution?,0.5747849345207214
+114,existence,location, creation of physical object.,It came into existence.,0.35666796565055847
+115,existence,location, existence,The question simply doesn't arise here.,0.2685281038284302
+116,meaning,container, finding physical objects.,He found the knowledge in a new book.,0.0951714813709259
+117,meaning,container, weight/quantity,Harry does not exactly overload his paragraphs with thought.,0.24336306750774384
+118,sex,competition, sports/games,Did you score last night?,0.45602792501449585
+119,sex,competition, power dynamics/control.,She surrendered to him.,0.2076132446527481
+120,body,container, Container/Imprisonment,He's a young man trapped in an old man's body.,0.0
+121,body,container, physical space/body.,"Once you get past his rude exterior, you'll find a warm and caring person inside.",0.1932937651872635
+122,difficulties,container, container/space,How did I get myself into this situation?,0.7856147885322571
+123,difficulties,container, physical location/space.,How do we get out of this situation?,0.17350231111049652
+124,investment,container, securing valuables,Put your money in bonds.,0.11552032828330994
+125,investment,container, investment,I'm down to my bottom dollar.,0.1327318400144577
+126,obligations,container, trapping and escaping physical entities.,Can you get out of doing the dishes?,0.11907482147216797
+127,obligations,container, physical restraint.,He trapped her into going with him.,0.07729122042655945
+128,theories,cloth, weaving or constructing,A finely woven theory.,0.3296321928501129
+129,theories,cloth, nudity,Let's look at the naked facts.,0.05529433861374855
+130,time,container, measurement,He did it in three minutes.,0.12743400037288666
+131,time,container, physical distance/comparison.,He's like something out of the last century.,0.13565479218959808
+132,darkness,cover, cover/hiding,Under cover of darkness.,0.8011714220046997
+133,darkness,cover, physical enclosure,Darkness closed in over us.,0.20184829831123352
+134,money,liquid, liquid/fluidity,My money is all dried up.,0.7487611174583435
+135,money,liquid, liquid flow.,Don't pour your money down the drain.,0.9999998807907104
+136,harm,destruction, physical force/movement.,He crushed the rebellion.,0.3532813489437103
+137,harm,destruction, physical objects being harmed or broken,She wrecked our marriage.,0.32113245129585266
+138,strong emotion,blindness, visual impairment/blindness,He was blinded by love.,0.7616585493087769
+139,strong emotion,blindness, light,They were dazzled with excitement.,0.1689814031124115
+140,active,alive, life/ living beings,The party was really alive,0.4128839373588562
+141,active,alive, life or vitality,"Lively, liven (lexical examples)",0.3084847033023834
+142,people,batteries, electricity/battery,I'm all charged up and full of energy.,0.6937538981437683
+143,people,batteries, mechanics of a car,I need a jump start on Monday mornings,0.20052853226661682
+144,mind,body, body fitness,His mind is strong and supple.,0.7859617471694946
+145,mind,body, physical objects,The idea just slipped through my fingers.,0.3743358254432678
+146,problem,body of water, water,He dived right into the problem.,0.7364566326141357
+147,problem,body of water, searching in a container.,He kept coming up empty.,0.6038191318511963
+148,importance,centrality, physical objects being stripped of their properties.,Let's strip away all the unimportant details.,0.034692808985710144
+149,importance,centrality, physical orientation and spatial location.,That's just a peripheral issue.,0.17834851145744324
+150,disparity,change, height or physical distance,The phone poles get taller as you approach the freeway.,0.36450228095054626
+151,disparity,change, cycle of change/rotation,The president changes every four years.,0.7424324154853821
+152,obligations,children, taking care of a child,The setting of salaries is his baby.,0.6472794413566589
+153,obligations,children, neglecting living things or objects.,He's been neglecting his duties.,0.5222777724266052
+154,purpose,direction, direction/movement,He is just floating around.,0.8204826712608337
+155,purpose,direction, travel/direction,She is a drifter with no direction.,0.782447338104248
+156,facial expression,cover, cleaning/erasing,Wipe that smile off your face.,0.1555297076702118
+157,facial expression,cover, lifting a weight/burden.,The disquiteting expression was lifted from her face.,0.28993433713912964
+158,defeat,drowning, drowning/water survival,I'm just trying to keep my head above water.,0.6886236071586609
+159,defeat,drowning, swimming/drowning,Try not to get in over your head.,0.7883322238922119
+160,emotion stability,grounding, physical stability,She has her feet on the ground.,0.14406128227710724
+161,emotion stability,grounding, physical stability,I'm up in the air.,0.14406128227710724
+162,intelligence,light, brightness or light,He is very bright.,0.8067431449890137
+163,intelligence,light, brightness,I always thought he was a little dim.,0.3016689717769623
+164,hope,light, weather/clouds,The clouds were a glimmer of hope that rain might come.,0.40332427620887756
+165,hope,light, light/darkness.,I have a very dim hope that he'll recover.,1.0
+166,amount,length, measuring quantity,He's short of money.,0.42950791120529175
+167,amount,length, measuring quantity or amount.,He's short on intelligence.,0.42950791120529175
+168,time,landscape, space/distance,We're coming up on Xmas.,0.24246369302272797
+169,time,landscape, space/location,He didn't make it to Tuesday.,0.2701396942138672
+170,love,journey, paths/roads,They are at a crossroads in their relationship.,0.3596305549144745
+171,love,journey, train travel.,Their marriage has really gone off the track.,0.3701626658439636
+172,life,journey, journey/path.,"I don't know where I'm headed, but I'm enjoying getting there.",1.0
+173,life,journey, journey/direction/goal,He's headed for great things.,0.6987066268920898
+174,love,insanity, uncontrollable behavior.,He raves about her.,0.2221146523952484
+175,love,insanity, madness,She is madly in love.,0.5234125852584839
+176,desire,hunger, physical reaction,He was drooling over her.,0.23293089866638184
+177,desire,hunger, basic physical need (hunger),He hungers for her touch.,0.27242377400398254
+178,anger,heat, temperature (heat),She's a real hothead.,0.562370240688324
+179,anger,heat, fire/burning.,His eyes smouldered with rage.,0.3133903443813324
+180,beliefs,guides, government/politics,You are governed by your beliefs.,0.0389738604426384
+181,beliefs,guides, path/route,You go by your beliefs.,0.18077997863292694
+182,final state,goal, travel/destination,I ended up exhausted.,0.12918981909751892
+183,final state,goal, physical destination or journey,His reckless investments are taking him into backruptcy.,0.20171670615673065
+184,emotion,force, physical movement/displacement,I was moved by the poem.,0.35355427861213684
+185,emotion,force, physical movement/transportation,She was carried away by the song.,0.37782177329063416
+186,competition,fight, physical fight/violence.,He clobbered me at tennis.,0.7725504040718079
+187,competition,fight, physical fight,Those swim teams have been slugging it out all season.,0.7725504040718079
+188,light,fluid, liquid,Sunlight poured into the room.,0.5092668533325195
+189,light,fluid, liquid substance,Pools of light were scattered across the clearing.,0.5121093392372131
+190,ideas,food, nourishment/food,She gave us some brain food.,0.7800747752189636
+191,ideas,food, food/consumption,We have a live satellite feed from London.,0.8515104651451111
+192,desire,force, magnetism or attraction,They were drawn to each other.,0.07111943513154984
+193,desire,force, electricity (as a metaphor for desire or attraction),I could feel the electricity between us.,0.3803015351295471
+194,communication,writing, writing/messages,His guilt was written all over his face.,0.8033800721168518
+195,communication,writing, spelling words,Do I have to spell it out for you?,0.4419226050376892
+196,influence,force, physical force.,He can exert his influence on her.,0.25619301199913025
+197,influence,force, physical pressure,Reagan brought pressure to bear upon his cabinet.,0.4052416980266571
+198,end of action,goal, journey,We are reaching the end of the house-buying process.,0.14869041740894318
+199,end of action,goal, journey or process,We are entering the last stages of filing for bankrupcy.,0.23946283757686615
+200,getting,eating, getting,Cough up the money you owe me!,0.379731148481369
+201,getting,eating, feeding,I've been feeding him funds illegally for a year.,0.4733011722564697
+202,problem,path, path,Let's follow this line of thinking.,0.9999999403953552
+203,problem,path, transportation/trains.,Let's get our thinking back on track.,0.177907332777977
+204,intoxication,electrification, intoxication,He was wired.,0.04133348539471626
+205,intoxication,electrification, light/intensity,He was lit.,0.09037874639034271
+206,emotion,heat, heat and fire,The crowd was all fired up.,0.720245361328125
+207,emotion,heat, physical sensation or experience.,He had a burning emotion.,0.3176300525665283
+208,affection,warmth, physical temperature,They gave me a warm welcome.,0.328741192817688
+209,affection,warmth, temperature or warmth.,He took a while to warm up to me.,0.34836870431900024
+210,compliance,following, physical movement.,He went along with what he was told to do.,0.27534523606300354
+211,compliance,following, physical movement,He followed his orders.,0.35668084025382996
+212,ideas,container, objects inside a container,I can't get this idea out of my mind.,0.6436338424682617
+213,ideas,container, location within a physical space.,What did you have in mind?,0.22816123068332672
+214,more,up, quantity/comparison,The number of people living in poverty went up.,0.15902067720890045
+215,more,up, quantity/amount.,Can you please decrease the number of assignments?,0.06877756863832474
+216,ideas,object, Possessions,Sally gave the idea to Sam.,0.0
+217,ideas,object, commerce/trade.,IBM bought the idea from him.,0.1167687401175499
+218,strong emotion,insanity, force affecting a physical object (mind),He's out of his mind with grief.,0.10004737973213196
+219,strong emotion,insanity, insanity or loss of control,I'm mad with jealousy.,0.4720792770385742
+220,intoxication,burden, substance abuse.,She was loaded.,0.10073716938495636
+221,intoxication,burden, filling up an object with liquid or gas,She was tanked up.,0.23053742945194244
+222,rational,up, verticality (higher vs. lower),"The discussion fell to the emotional level, but I raised it back up to the rational plane.",-0.17356866598129272
+223,rational,up, physical elevation,He couldn't rise above his emotions.,0.19710633158683777
+224,excitement,insanity, driving a vehicle.,The excitement is driving me over the edge.,0.16040003299713135
+225,death,not metaphoric, objects/locations.,The day of the hearing of her second case she had been found dead.,0.2997473478317261
+226,emotions,not metaphoric, physical sensation.,I was shocked for a minute.,0.3615139424800873
+227,moving,not metaphoric, forward advancement,They saw Daniel advancing.,0.17047888040542603
+228,memories,not metaphoric, physical objects in a space.,There was nothing in his house to remind him of Ecalpemos.,0.40609902143478394
+229,sleep,not metaphoric, physical location/destination,She was almost asleep.,0.3424110412597656
+230,family,not metaphoric, possession/ location,"Adam sat in his parents' house, drinking tea.",0.2266840785741806
+231,newspapers,not metaphoric, not metaphoric,He did not even see an English newspaper.,1.0
+232,liking,not metaphoric, sense of taste or preference.,I don't like Miss Fitch.,0.4182569086551666
+233,understanding,not metaphoric, physical location,I don't understand business.,0.3560640215873718
+234,distance,not metaphoric, physical proximity.,They ought to be near him soon.,0.3615139424800873
+235,doors,not metaphoric, access/opportunity,And don't try and get the door open.,0.291990727186203
+236,scanning ,not metaphoric, not metaphoric,Lawton scanned upwards.,1.0
+237,distance,not metaphoric, positivity,The further away the better.,0.09871391206979752
+238,arriving ,not metaphoric, physical movement,Lawton came and crouched down in front of it.,0.3190802335739136
+239,ideas,not metaphoric, inherent properties of physical objects.,I think it 's a good idea.,0.4103192090988159
+240,communication,not metaphoric, silence,Nobody spoke immediately.,0.14342723786830902
+241,results,not metaphoric, physical objects,Output from the system is both tabular and graphical .,0.4008328914642334
+242,paths  ,not metaphoric, physical paths,Chosen routes were those which minimized population rather than distance.,0.358934223651886
+243,property,not metaphoric, commercial exchange,Are we to sell our cattle or our land? ,0.19061414897441864

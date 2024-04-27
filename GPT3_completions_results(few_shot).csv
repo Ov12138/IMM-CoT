@@ -1,0 +1,226 @@
+Target Domain,Source Domain,GPT3 Completion,Example
+intoxication,destruction,destruction,He was wrecked.
+intoxication,destruction,violence/physical force,He got thrashed.
+amount,size,physical object (money),Can you break a twenty?
+amount,size,size,I'm not a big eater.
+beliefs,plants,planting/growing,I planted the belief in his mind.
+beliefs,plants,plants/gardening,This is a flourishing belief in this culture.'
+success,goal,travel/journey,We've made it this far in our efforts to solve the problem.
+success,goal,journey/movement,We only have a short ways to go on solving this puzzle.
+subjects,areas,exploration or investigation,The researchers surveyed the new material.
+subjects,areas,land,"Your dissertation should stake out new territory, preferably virgin territory."
+disgust,nausea,illness,You make me sick!
+disgust,nausea,sickness,She's a nauseating person.
+emotion,object,physical object (glass),She was shattered by his death.
+emotion,object,physical object or structure.,She fell apart.
+mind,object,breakage/shattering,He cracked up.
+mind,object,fragility/breakability of objects.,He's mentally fragile.
+opportunities,object,movement,Don't let the opportunity pass you by.
+opportunities,object,objects,I took the job when it became available.
+problem,object,cosmetics/makeup,Let's look at the make-up of this problem.
+problem,object,physical object (i.e. tearing something apart to find its components),He tore the problem apart looking for its solution.
+morality,accounting,commerce,You have to pay for your mistakes.
+morality,accounting,debt/credit,I'll make it up to everyone for what I've done.
+relationship,musical harmony,music,They had a harmonious relationship.
+relationship,musical harmony,music/sound,They are out of tune with each other.
+harm,path,obstacles,How am I supposed to learn anything if the school keeps placing roadblocks in my way?
+harm,path,burden/weight,It's hard to reach the top when you're saddled with an unwanted baby.
+morality,path,uprightness/ honesty,I think he's being straight with me.
+morality,path,traveling/journeying,She has strayed.
+creation,plants,farming,He planted seeds of doubt in my mind.
+creation,plants,agriculture,China is a fertile ground for revolt.
+people,plants,plants,She's a late bloomer.
+people,plants,death,The grim reaper.
+time,moving object,movement/progression,Thursday passed without incident.
+time,moving object,space/movement,What events are up ahead?
+schedule,moving object,"movement, progress",He finally caught up to schedule.
+schedule,moving object,movement/progression,The class was trying to keep up with the schedule.
+causation,money,financial gain/transaction,He profitted from experience.
+causation,money,price/payment,Reckless skiing cost her a leg.
+states,locations,falling/being in a physical location,He is in love.
+states,locations,travel or journey,He is at a certain stage in his studies.
+beliefs,lovers,romantic attraction,He flirted with a belief in utter hedonism in his youth.
+beliefs,lovers,temptation/seduction,That's a seductive belief.
+lust,machine,switch,You turn me on.
+lust,machine,machine/power,"Turn my crank, baby."
+mind,machine,machinery,He has a screw loose.
+mind,machine,production,He churns out ideas. 
+people,machine,machinery/machines,He had a breakdown.
+people,machine,vehicles,Fuel up with a good breakfast.
+force,moving object,physics/power/control,Greed is the strongest evil force at work in the world today.
+force,moving object,gravity/movement,The force of gravity on the moon is much weaker.
+change,motion,movement from a physical space to a conceptual space.,He went from innocent to worldly.
+change,motion,color,His hair went gray.
+ideas,motion,toys/games/sports,I'm playing with the idea of a trip to Hawaii.
+ideas,motion,transportation/railways,She's got a one-track mind
+shape,motion,support/structre,The tower leans.
+shape,motion,landscape/topography/terrain.,The roof slopes down before it drops off steeply.
+lover,possession,possession or commodity,My friend stole my loved one from me.
+lover,possession,possession/ownership,I'm going to get him back.
+beliefs,possessions,grasping/holding on to,She clings to his beliefs.
+beliefs,possessions,plaything or object of amusement,I briefly toyed with a belief in a higher power.
+harm,location,location/position,I am in trouble.
+harm,location,movement or motion,They're driving me over the edge.
+laughter,substance,output,You can't get a single joke out of him.
+laughter,substance,tearing/shredding,He was ripping with laughter.
+beliefs,support,building or construction,He chipped away at the foundation for her beliefs.
+beliefs,support,physical support,What view does he uphold?
+problem,target,targeting/hunting,The mayor targetted the problem of homelessness.
+problem,target,warfare/hunting,He spearheaded the investigation.
+seeing,touching,attraction,I couldn't take my eyes off of him.
+seeing,touching,touching,Her eyes picked out a detail in the pattern.
+existence,visibility,arrival or creation,New problems keep appearing.
+existence,visibility,light/visibility,The controversy eventually faded away.
+darkness,solid,touch/tactile experience,The darkness was palpable.
+darkness,solid,pressure,Darkness pressed in on all sides.
+competition,war,warfare,The debate team brought out their big guns.
+competition,war,war,They battled each other over the chess board every week.
+illness,war,warfare or invasion,The disease infiltrates your body and takes over.
+illness,war,war,The doctors tried to wipe out the infection.
+words,weapons,sharp objects,She used some sharp words.
+words,weapons,weapons,He hurled insults at her.
+adversity,weather,weather/environment.,The climate is right for a takeover.
+adversity,weather,celebration,It rained on my parade.
+communication,speech,trade/commerce.,A picture is worth a thousand words.
+communication,speech,language/art,What does that painting say to you?
+harm,possessions,physical force/impact,The noise gave him a headache.
+harm,possessions,possession,"If you don't have your health, what have you got?"
+obligations,possessions,physical weight,He's carrying a heavy load at work.
+obligations,possessions,physical transfer,I dumped that project in his lap.
+properties,possessions,physical sensation (pleasantness),She has a nice sense of humor.
+properties,possessions,inheritance,He got his red hair from his mother.
+responsibilities,possessions,burden/weight,I was the one who got the blame.
+responsibilities,possessions,adhesion/sticking,They made the charges stick.
+competitors,predators,animals,I said one thing and they pounced on me like a pack of dingos.
+competitors,predators,animals,The conference room is a real snake pit today.
+harm,prey,predator-prey relationship,I feel like a little fish surrounded by sharks.
+harm,prey,hunting,The FBI lay in wait of their quarry for days.
+competition,race,warfare/military conflict,The arms race.
+competition,race,space/distance,"He's a better writer than I am, and he's widening the distance."
+conceit,size,clothing,He's a stuffed shirt.
+conceit,size,size/magnitude.,He was becoming quite grandiose when I left.
+change,replacement,substance transformation,"After the experiment, the water was gone, and hydrogen and oxygen was in its place."
+change,replacement,substitution/replacement,"The man I had known was gone, and in his place was an aging fool."
+time,resource,a finite resource (like a limited item or commodity),We're almost out of time.
+time,resource,resource/asset,Find a better use for your time.
+understanding,seeing,light,Can you shed more light on this issue? I don't quite see what you are talking about.
+understanding,seeing,vision/seeing,He sees only what he wants to see.
+perception,shape,problem-solving,I can't figure him out.
+perception,shape,shape/appearance,He cuts a splendid figure.
+states,shapes,shape/size,He doesn't fit in.
+states,shapes,justice,He let the punishment fit the crime
+thinking,accounting,mathematics,I can put two and two together.
+thinking,accounting,bookkeeping/finance,How do you account for this fact?
+problem,location,navigation,Let's map out the problem before we do anything else.
+problem,location,physical distance,How close are we to finding a solution?
+existence,location,coming into being,It came into existence.
+existence,location,vertical orientation (i.e. up/down),The question simply doesn't arise here.
+meaning,container,acquisition of physical objects.,He found the knowledge in a new book.
+meaning,container,quantity or weight,Harry does not exactly overload his paragraphs with thought.
+sex,competition,sport/game,Did you score last night?
+sex,competition,war,She surrendered to him.
+body,container,container,He's a young man trapped in an old man's body.
+body,container,container,"Once you get past his rude exterior, you'll find a warm and caring person inside."
+difficulties,container,location/movement,How did I get myself into this situation?
+difficulties,container,physical containment or entrapment.,How do we get out of this situation?
+investment,container,loaning/borrowing,Put your money in bonds.
+investment,container,"finance, money",I'm down to my bottom dollar.
+obligations,container,burden/weight,Can you get out of doing the dishes?
+obligations,container,capture or imprisonment,He trapped her into going with him.
+theories,cloth,weaving or crafting,A finely woven theory.
+theories,cloth,body,Let's look at the naked facts.
+time,container,distance,He did it in three minutes.
+time,container,object/Clock/calendar/era/period,He's like something out of the last century.
+darkness,cover,secrecy/hiddenness,Under cover of darkness.
+darkness,cover,loss of understanding or knowledge,Darkness closed in over us.
+money,liquid,liquid,My money is all dried up.
+money,liquid,liquid,Don't pour your money down the drain.
+harm,destruction,destruction,He crushed the rebellion.
+harm,destruction,destruction,She wrecked our marriage.
+strong emotion,blindness,loss of sight/vision,He was blinded by love.
+strong emotion,blindness,light,They were dazzled with excitement.
+active,alive,life,The party was really alive
+active,alive,life/vitality,"Lively, liven (lexical examples)"
+people,batteries,electricity or energy,I'm all charged up and full of energy.
+people,batteries,vehicles,I need a jump start on Monday mornings
+mind,body,body/flexibility,His mind is strong and supple.
+mind,body,grasping/holding,The idea just slipped through my fingers.
+problem,body of water,water,He dived right into the problem.
+problem,body of water,container/supply,He kept coming up empty.
+importance,centrality,clothing or covering,Let's strip away all the unimportant details.
+importance,centrality,location or position,That's just a peripheral issue.
+disparity,change,size or height,The phone poles get taller as you approach the freeway.
+disparity,change,time/rotation,The president changes every four years.
+obligations,children,parenting,The setting of salaries is his baby.
+obligations,children,tasks or chores,He's been neglecting his duties.
+purpose,direction,direction/motion,He is just floating around.
+purpose,direction,movement or travel,She is a drifter with no direction.
+facial expression,cover,physical object/action (wiping),Wipe that smile off your face.
+facial expression,cover,weight,The disquiteting expression was lifted from her face.
+defeat,drowning,swimming/survival.,I'm just trying to keep my head above water.
+defeat,drowning,water/swimming,Try not to get in over your head.
+emotion stability,grounding,physical stability/positioning,She has her feet on the ground.
+emotion stability,grounding,physical height or motion,I'm up in the air.
+intelligence,light,light,He is very bright.
+intelligence,light,lighting,I always thought he was a little dim.
+hope,light,weather,The clouds were a glimmer of hope that rain might come.
+hope,light,light or brightness,I have a very dim hope that he'll recover.
+amount,length,space/quantity.,He's short of money.
+amount,length,measurement,He's short on intelligence.
+time,landscape,upcoming event / physical approach,We're coming up on Xmas.
+time,landscape,distance/journey,He didn't make it to Tuesday.
+love,journey,journey/directions,They are at a crossroads in their relationship.
+love,journey,journey/railway track,Their marriage has really gone off the track.
+life,journey,journey/travel,"I don't know where I'm headed, but I'm enjoying getting there."
+life,journey,journey,He's headed for great things.
+love,insanity,madness/insanity,He raves about her.
+love,insanity,insanity,She is madly in love.
+desire,hunger,hunger,He was drooling over her.
+desire,hunger,hunger/food,He hungers for her touch.
+anger,heat,temperature,She's a real hothead.
+anger,heat,fire,His eyes smouldered with rage.
+beliefs,guides,government/control,You are governed by your beliefs.
+beliefs,guides,travel,You go by your beliefs.
+final state,goal,journey,I ended up exhausted.
+final state,goal,journey,His reckless investments are taking him into backruptcy.
+emotion,force,physical force/motion,I was moved by the poem.
+emotion,force,movement/physical force,She was carried away by the song.
+competition,fight,fighting,He clobbered me at tennis.
+competition,fight,fighting,Those swim teams have been slugging it out all season.
+light,fluid,liquid or flow,Sunlight poured into the room.
+light,fluid,water,Pools of light were scattered across the clearing.
+ideas,food,food,She gave us some brain food.
+ideas,food,communication,We have a live satellite feed from London.
+desire,force,magnetism,They were drawn to each other.
+desire,force,energy,I could feel the electricity between us.
+communication,writing,writing/inscription,His guilt was written all over his face.
+communication,writing,writing/spelling,Do I have to spell it out for you?
+influence,force,force,He can exert his influence on her.
+influence,force,force or weight,Reagan brought pressure to bear upon his cabinet.
+end of action,goal,journey/movement,We are reaching the end of the house-buying process.
+end of action,goal,journey,We are entering the last stages of filing for bankrupcy.
+getting,eating,removing,Cough up the money you owe me!
+getting,eating,feeding,I've been feeding him funds illegally for a year.
+problem,path,movement/direction,Let's follow this line of thinking.
+problem,path,travel/transportation,Let's get our thinking back on track.
+intoxication,electrification,electricity/electronics,He was wired.
+intoxication,electrification,lighting up,He was lit.
+emotion,heat,heat and fire.,The crowd was all fired up.
+emotion,heat,heat/flame,He had a burning emotion.
+affection,warmth,temperature/hotness,They gave me a warm welcome.
+affection,warmth,temperature,He took a while to warm up to me.
+compliance,following,movement in space (i.e. following someone's lead),He went along with what he was told to do.
+compliance,following,movement/physical action,He followed his orders.
+ideas,container,objects,I can't get this idea out of my mind.
+ideas,container,physical space or container.,What did you have in mind?
+more,up,up,The number of people living in poverty went up.
+more,up,size/volume,Can you please decrease the number of assignments?
+ideas,object,objects being passed or transferred,Sally gave the idea to Sam.
+ideas,object,commodities/buying and selling,IBM bought the idea from him.
+strong emotion,insanity,mental state,He's out of his mind with grief.
+strong emotion,insanity,mental instability,I'm mad with jealousy.
+intoxication,burden,wealth/riches,She was loaded.
+intoxication,burden,liquid,She was tanked up.
+rational,up,physical location or orientation (up and down),"The discussion fell to the emotional level, but I raised it back up to the rational plane."
+rational,up,up/down,He couldn't rise above his emotions.
+excitement,insanity,physical location or boundary,The excitement is driving me over the edge.
